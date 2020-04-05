@@ -8,8 +8,6 @@ output:
     
 ---
 
-![](Russian%20Rye%20Bread/Untitled.png)
-
 # Ingredients
 
 - 1 1/4 cups (283g) lukewarm water (105°F to 115°F)
@@ -28,9 +26,6 @@ output:
 3. Add the remaining barley malt extract or dark honey, the salt, caraway seeds, butter, and enough of the unbleached flour to create a dough that begins to pull away from the sides of the bowl. At this point, cover the dough with a towel or plastic wrap, and let it stand for about 5 minutes.
 4. Turn the dough out onto a lightly floured or lightly oiled work surface, and knead until it's smooth and elastic, about 10 minutes. Halfway through, give the dough a rest while you clean out and butter your mixing bowl.
 5. Shape the dough into a ball, place it in the buttered bowl, turning to coat, and cover the bowl with a towel or plastic wrap. Allow the dough to rise for about 1 1/2 hours, or until it's not quite doubled in bulk.
-6. To make the dough using a bread machine: Place all of the dough ingredients into the bucket of your bread machine in the order recommended by the manufacturer, program the machine for manual or dough, and start the machine.
-7. About 10 minutes before the end of the final kneading cycle, examine the dough; it should be smooth (though still sticky), not "gnarly." Adjust the dough's consistency with additional unbleached flour or water, as necessary. Allow the machine to complete its cycle, leaving it in the machine until it's just about doubled in bulk.
-8. To complete the bread: Punch the dough down, and divide it in half. Shape each half into an oval, place them on a lightly greased or parchment-lined baking sheet, cover, and let rise for about 30 minutes.
-9. Preheat the oven to 375°F.
-10. Bake the bread for about 45 minutes, or until the crust is dark brown, and the interior temperature of the loaves measures 190°F to 200°F on an instant-read thermometer. Remove the bread from the oven, and cool it on a wire rack.
-11. Store, well-wrapped, on the counter for 4 days, or freeze for up to 3 months.
+6. To complete the bread: Punch the dough down, and divide it in half. Shape each half into an oval, place them on a lightly greased or parchment-lined baking sheet, cover, and let rise for about 30 minutes.
+7. Preheat the oven to 375°F.
+8. Bake the bread for about 45 minutes, or until the crust is dark brown, and the interior temperature of the loaves measures 190°F to 200°F on an instant-read thermometer. Remove the bread from the oven, and cool it on a wire rack.

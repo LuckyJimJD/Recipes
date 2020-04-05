@@ -8,24 +8,22 @@ output:
     
 ---
 
-![](Sourdough%20Challah/challah.jpg)
-
 # Ingredients
 
 ## For the starter
 
-- 2 tablespoons (35 grams/1.2 ounces) very active, fully fermented firm sourdough starter, refreshed 8 to 12 hours earlier
-- 1/3 cup (80 grams/2.8 ounces) warm water
-- About 1 cup (135 grams/4.8 ounces) bread flour
+- 2 tablespoons (35 grams) sourdough starter
+- 1/3 cup (80 grams) warm water
+- About 1 cup (135 grams) bread flour
 
 ## For final dough
 
-- 1/4 cup (60 grams/2 ounces) warm water
+- 1/4 cup (60 grams) warm water
 - 3 large eggs, plus 1 for glazing
-- 1 1/2 teaspoons (8 grams/0.3 ounce) table salt
-- 1/4 cup (55 grams/1.9 ounces) vegetable oil
-- 3 tablespoons (65 grams/2.3 ounces) mild honey or a scant 1/3 cup (60 grams/2.1 ounces) granulated sugar
-- About 3 cups (400 grams/14 ounces) bread flour
+- 1 1/2 teaspoons (8 grams) table salt
+- 1/4 cup (55 grams) vegetable oil
+- 3 tablespoons (65 grams) honey or 1/3 cup (60 grams) sugar
+- 3 cups (400 grams) bread flour
 - Fully fermented sourdough starter
 
 # Directions
@@ -34,7 +32,7 @@ output:
 
 1. Knead starter into water until it is partially dissolved, then stir in the flour. 
 2. Knead this firm dough until it is smooth. 
-3. Remove 1 cup (200grams/7 ounces) of the starter to use in the final dough and place it in a sealed container at least four times its volume. Place the remaining starter in a sealed container and refrigerate to use in the next bake.
+3. Remove 1 cup (200grams) of the starter to use in the final dough and place it in a sealed container at least four times its volume. Place the remaining starter in a sealed container and refrigerate to use in the next bake.
 4. Let the starter ferment until it has tripled in volume and is just starting to deflate, 8 to 12 hours.
 
 ## Baking day
@@ -43,8 +41,8 @@ output:
 2. Mix in the bread flour all at once. When the mixture is a shaggy ball, add the starter, and knead until the dough is smooth, no more than 10 minutes. This dough is very firm and should feel almost like modeling clay. If the dough is too firm to knead easily, add a tablespoon or two of water to it; if it seems too wet, add a few tablespoons flour.
 3. The dough should feel smooth and very firm but be easy to knead.
 4. Place the dough in the warm cleaned bowl and cover it with plastic wrap. Let the dough ferment for about 2 hours. It will probably not rise much, if at all.
-5. Divide the dough into two 1-pound (450-gram) portions for loaves, one 1 1/2 pound (680-gram) portion for a large loaf and three small pieces for rolls (the easiest way to do this without a scale is to divide the dough into quarters and use one quarter for the rolls and the rest for the large loaf), or sixteen 2-ounce (60-gram) portions for rolls. 
-6. Braid or shape them as desired, place on lined baking sheets, and cover with plastic wrap. Let proof until tripled in size, about 5 hours.
+5. Divide the dough into two portions and braid. 
+6. Place braided loaves on lined baking sheets, cover with plastic wrap, & let proof until tripled in size, about 5 hours.
 7. 30 minutes before baking, place one rack in the upper third position of oven. Preheat the oven to 350°F. 
 8. Beat the remaining egg with a pinch of salt for glazing the breads.
 9. When the loaves have tripled and do not push back when gently pressed with your finger but remain indented, brush them with the egg glaze. 
