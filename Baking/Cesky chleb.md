@@ -8,30 +8,16 @@ output:
     
 ---
 
-
-![](Cesky%20chleb/Untitled.png)
-
 # Ingredients
 
-\begin{multicols}{2}
-
-75 grams rye sourdough starter
-
-1/4 teaspoon ground coriander
-
-250 grams wheat bread flour
-
-2 teaspoons salt
-
-1/2 liter of water
-
-250 grams rye bread flour
-
-1/2 Tablespoon caraway seed
-
-250 grams wheat flour
-
-\end{multicols}
+- 75 grams rye sourdough starter
+- 1/4 teaspoon ground coriander
+- 250 grams wheat bread flour
+- 2 teaspoons salt
+- 1/2 liter of water
+- 250 grams rye bread flour
+- 1/2 Tablespoon caraway seed
+- 250 grams wheat flour
 
 # Directions
 

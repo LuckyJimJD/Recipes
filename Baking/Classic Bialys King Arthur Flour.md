@@ -1,5 +1,5 @@
 ---
-title: 'Classic Bialys (King Arthur Flour)'
+title: 'Bialys'
 
 output: 
   pdf_document:
@@ -31,7 +31,8 @@ output:
 
 ## Dough 
 
-- Combine the flour, salt, yeast, and onion powder in the bowl of a stand mixer with a beater attachment. Switch to a dough hook, add the water and mix until just combined, 1 or 2 minutes at low speed. Cover and let sit for 20 minutes.
+- Combine flour, salt, yeast, and onion powder in mixer bowl with beater attachment. 
+- Switch to a dough hook, add water and mix until just combined, 1 or 2 minutes at low speed. Cover and let sit for 20 minutes.
 - Continue kneading at medium speed for 8 minutes, or until the dough is smooth and elastic.
 - Cover and refrigerate the dough in an oiled bowl overnight.
 - Next day, divide the dough into 12 pieces (about 4 ounces each) and shape into balls.

@@ -8,35 +8,19 @@ output:
     
 ---
 
-![Whole%20Wheat%20Rye%20Sourdough/9333-3-large.jpg](Whole%20Wheat%20Rye%20Sourdough/9333-3-large.jpg)
-
 # Ingredients
 
-\begin{multicols}{2}
-
-228g sourdough starter, ripe or discard
-
-1 1/2 teaspoons active dry yeast (optional)
-
-198g lukewarm milk
-
-28g packed dark brown sugar
-
-1 teaspoon salt
-
-1 1/2 teaspoons caraway seeds
-
-1/2 teaspoon whole anise seeds
-
-1/4 teaspoon ground cardamom
-
-54g rye flour (light or dark)
-
-58g whole wheat flour
-
-206-240g all-purpose flour
-
-\end{multicols}
+- 228g sourdough starter, ripe or discard
+- 1 1/2 teaspoons active dry yeast (optional)
+- 198g lukewarm milk
+- 28g packed dark brown sugar
+- 1 teaspoon salt
+- 1 1/2 teaspoons caraway seeds
+- 1/2 teaspoon whole anise seeds
+- 1/4 teaspoon ground cardamom
+- 54g rye flour (light or dark)
+- 58g whole wheat flour
+- 206-240g all-purpose flour
 
 # Directions
 

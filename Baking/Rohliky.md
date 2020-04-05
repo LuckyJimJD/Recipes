@@ -9,43 +9,25 @@ output:
 ---
 
 
-![](Rohliky/rohliky.jpg)
-
 # Ingredients
 
 ## Rolls
 
-\begin{multicols}{2}
-
-4 cups unbleached flour
-
-4 Tbsp butter, slightly melted
-
-2 packages dry yeast
-
-1 cup lukewarm milk (or water)
-
-1 tsp sugar
-
-2 tsp salt
-
-1 egg, lightly beaten
-
-\end{multicols}
+- 4 cups unbleached flour
+- 4 Tbsp butter, slightly melted
+- 2 packages dry yeast
+- 1 cup lukewarm milk (or water)
+- 1 tsp sugar
+- 2 tsp salt
+- 1 egg, lightly beaten
 
 ## Topping
 
-\begin{multicols}{2}
+- 1 egg, lightly beaten
+- A little milk
+- Coarse salt
+- Poppy or caraway seeds
 
-1 egg, lightly beaten
-
-A little milk
-
-Coarse salt
-
-Poppy or caraway seeds
-
-\end{multicols}
 
 # Directions
 
