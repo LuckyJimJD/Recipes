@@ -3,13 +3,6 @@ date: 2018-02-06
 
 title: Bimuelos
 
-mainfont: 'Cormorant Garamond'
-scfont: 'Cormorant SC'
-sansfont: 'Proza Libre'
-monofont: Inconsolata
-titlefont: 'Proza Libre Bold'
-fontsize: 11pt
-
 geometry: hmarginratio=1:1,top=1in,bottom=1in,left=1.25in,right=1.25in
 
 output: 
