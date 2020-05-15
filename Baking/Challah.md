@@ -9,42 +9,38 @@ output:
 
 # Challah 
 
+##### Makes 1
+
 ## Ingredients
 
-#### Makes 2 loaves
-
-### Dough 
-
-* 1.5 tablespoons active dry yeast 
-* 398 grams lukewarm water 
-* 180 grams + 1 tblsp sugar 
-* ½ cup vegetable oil 
-* 4 large eggs
-* 1 tablespoon salt
-* 900 grams all-purpose flour
-
-### Topping 
-
-* 1 egg
+* 2.5 teaspoons active dry yeast 
+* 200 grams lukewarm water 
+* 90 grams + 1/2 tblsp sugar 
+* 1/4 cup vegetable oil 
+* 2 large eggs, plus one for egg wash
+* 1/22 tablespoon salt
+* 450 grams all-purpose flour
 * Poppy and/or sesame seeds
 
 ## Directions
 
-1. In a large bowl, dissolve yeast and 1 tablespoon sugar in 398 grams lukewarm water.
-2. Whisk oil into yeast, then beat in 4 eggs, one at a time, with remaining sugar and salt. Gradually add flour. When dough holds together, it is ready for kneading. (You can also use a mixer with a dough hook for both mixing and kneading.)
+1. In a large bowl, dissolve yeast and 1/2 tablespoon sugar in 200 g water.
+2. Whisk oil into yeast, then beat in 2 eggs, one at a time, with remaining sugar and salt. Gradually add flour. When dough holds together, knead by hand or for 3-4 minutes with stand mixer & dough hook on speed 2.
 3. Turn dough onto a floured surface and knead until smooth. Clean out bowl and grease it, then return dough to bowl. Cover with plastic wrap, and let rise in a warm place for 1 hour, until almost doubled in size. 
 4. Punch down dough, cover and let rise again in a warm place for another half-hour.
-5. Divide dough & braid. Place loaves on lined baking sheet, and let rise for another hour. 
+5. Braid challah, place on a lined baking sheet, and let rise for another hour. 
 6. Preheat oven to 375 degrees.
-7. Brush loaves with egg wash and sprinkle with seeds.
+7. Brush challah with egg wash and sprinkle with seeds.
 8. Bake in middle of oven for 35 to 40 minutes, or until golden. 
 9. Place on rack to cool. 
 
-##### Note: Loaves may be frozen after braiding. Remove from freezer 5 hours before baking.
+##### Note: Challah may be frozen after braiding. Remove from freezer 5 hours before baking.
 
 \columnbreak
 
 # Sourdough Challah
+
+##### Makes 1
 
 ## Ingredients 
 
@@ -103,3 +99,8 @@ output:
 2. Roll one end of the strand inward to create a spiral snail-shell shape.
 3. Continue rolling the strand in the same direction until the spiral is complete. 
 4. Tuck the loose end of the spiral underneath the challah and pinch it tightly into the bottom, securing it.
+
+\columnbreak
+
+![](../assets/img/ChallahBraiding 1.png)
+![](../assets/img/ChallahBraiding 2.png)
