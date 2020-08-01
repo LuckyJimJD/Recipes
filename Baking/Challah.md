@@ -3,28 +3,29 @@ title: 'Challah'
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: recipe.latex
+    template: recipe.tex
     
 ---
 
 # Challah 
 
-##### Makes 1
-
 ## Ingredients
 
-* 2.5 teaspoons active dry yeast 
+##### For 1 challah 
+
+* 2 1/4 tsp (1 packet) active dry yeast 
+* 1 tsp sugar (for activating yeast)
 * 200 grams lukewarm water 
-* 90 grams + 1/2 tblsp sugar 
+* 82 grams honey or 90 grams sugar
 * 1/4 cup vegetable oil 
 * 2 large eggs, plus one for egg wash
-* 1/22 tablespoon salt
+* 1 1/2 tsp salt
 * 450 grams all-purpose flour
 * Poppy and/or sesame seeds
 
 ## Directions
 
-1. In a large bowl, dissolve yeast and 1/2 tablespoon sugar in 200 g water.
+1. In a large bowl, dissolve yeast and 1 tsp sugar in 200 g water.
 2. Whisk oil into yeast, then beat in 2 eggs, one at a time, with remaining sugar and salt. Gradually add flour. When dough holds together, knead by hand or for 3-4 minutes with stand mixer & dough hook on speed 2.
 3. Turn dough onto a floured surface and knead until smooth. Clean out bowl and grease it, then return dough to bowl. Cover with plastic wrap, and let rise in a warm place for 1 hour, until almost doubled in size. 
 4. Punch down dough, cover and let rise again in a warm place for another half-hour.
@@ -40,25 +41,25 @@ output:
 
 # Sourdough Challah
 
-##### Makes 1
-
 ## Ingredients 
+
+##### For 1 challah
 
 ### Levain 
 
-- 2 tablespoons (35 grams) sourdough starter
-- 1/3 cup (80 grams) warm water
-- About 1 cup (135 grams) bread flour
+- 35 grams (2 tablespoons) sourdough starter
+- 80 grams (1/3 cup) warm water
+- 135 grams (1 cup) bread flour
 
 ### Dough
 
-- 1/4 cup (60 grams) warm water
+- Ripened levain 
+- 60 grams (1/4 cup) warm water
 - 3 large eggs, plus 1 for glazing
-- 1 1/2 teaspoons (8 grams) table salt
-- 1/4 cup (55 grams) vegetable oil
-- 3 tablespoons (65 grams) honey or 1/3 cup (60 grams) sugar
-- 3 cups (400 grams) bread flour
-- Fully fermented sourdough starter
+- 1 1/2 tsp salt
+- 55 grams (1/4 cup) vegetable oil
+- 55 grams (3 tablespoons) honey or 60 grams (1/3 cup) sugar
+- 400 grams (3 cups) bread flour
 - Poppy and/or seseme seeds 
 
 ## Directions

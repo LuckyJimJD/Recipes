@@ -4,34 +4,56 @@ title: 'Český chléb'
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: recipe.latex
+    template: recipe.tex
     
 ---
 
-# Ingredients
 
-## Sponge 
+# Český chléb
 
-- 75 grams rye sourdough starter
-- 1/2 liter of water
-- 250 grams rye flour
+## Ingredients 
 
-## Dough 
+### Levain 
 
-- 250 grams white flour
-- 250 grams whole wheat flour
-- 2 teaspoons salt
-- 1/2 Tablespoon caraway seed
-- 1/4 teaspoon ground coriander
+- 150 g rye flour
+- 150 g water
+- 20 g rye sourdough starter  
 
-# Directions
+### Dough 
 
-1. Mix the rye leavening, rye bread flour and water. This will create a thinner batter. 
-2. Cover and let rise overnight. 
-3. In the morning, add the wheat flour, wheat bread flour, salt, coriander and caraway seeds. Mix thoroughly for 5 minutes.
-4. Cover and let rise for about 3 hours. 
-5. Divide the dough into two parts, shaping into long oval loaves, and place in oval brotforms. 
-6. Cover and let rise again for about an hour.
-7. While loaves are rising, heat oven to 500° F., with cast iron skillet on bottom of oven and large baking sheet on lower rack. 
-8. Place loaves on heated baking sheet, pour 1 cup of water to heated skillet to create steam, and bake for 10 minutes. 
-9. Reduce oven temperature to  390° F and bake for another 40-50 minutes.
+- 300 grams rye levain 
+- 300 grams bread flour
+- 170 grams water
+- 12 grams (2 tsp) salt
+- 1 1/2 tsp caraway seeds
+
+## Directions
+
+### Levain 
+
+1. Mix the rye starter, rye flour and water. 
+2. Cover and let rise overnight (12-16 hours) at room termperature. 
+
+### Dough 
+
+1. Mix levain, water, flour, salt, and caraway seeds in stand mixer with a dough hook (4 minutes). Pour the dough from the bowl onto a floured surface and knead it by hand briefly. 
+
+2. Place dough in a lightly oiled bowl, cover, and let rise for 1 hour.
+
+3. Place dough on floured surface, press into a rectangle, and fold: 
+
+	- Starting at the top, fold it to about one-third. 
+	- Fold each corner into the middle. 
+	- Roll from the bottom with floured hands and pinch the seam closed. 
+
+4. Place dough in floured brotform, with the seam facing up. Sprinkle with flour, seal in a plastic bag, and leave to rise for 2 to 3 hours at room temperature or 12 hours in regrigerator.
+
+5. About 45 minutes before baking, heat oven and reheat it to 480° F. Place cloche or baking stone on rack in lower-third of the oven. If not using a cloche, place a baking sheet or cast iron pan on the bottom of the oven. 
+
+6. Remove the dough from the brotform and slash the top, and place onto the pre-heated baking dish or stone in the oven. If not using a cloche, pour 1 cup of hot water on the baking sheet to create steam.
+
+7. Bake for about 15 minutes (covered, if using a cloche). 
+
+8. Reduce oven temperature to 410° F, and bake for another 20-30 minutes until done. Internal temperature should be about 205° F.
+
+9. Remove bread from the oven and let it cool completely on a rack. 
