@@ -1,24 +1,37 @@
-# Peach Cobbler
+---
+layout: recipe
+slug: /peach_cobbler/
+title: Peach Cobbler
+source: 'https://www.bonappetit.com/recipe/brown-butter-peach-cobbler'
 
-Tags: baking, dessert
-URL: https://www.bonappetit.com/recipe/brown-butter-peach-cobbler
+---
 
-### Ingredients
+# Ingredients
+
+## For the Filling 
 
 - 5 peaches (about 1½ lb.)
 - 2 Tbsp. dark brown sugar
 - 1 tsp. ground cinnamon
 - ½ tsp. ground mace
-- 2 cups (400 g) granulated sugar, divided
+- ¼ cups granulated sugar, divided
+
+## For the Dough 
+
 - 1 cup (2 sticks) unsalted butter
 - 2 cups (250 g) all-purpose flour
-- 1 Tbsp. baking powder
-- 1 tsp. Diamond Crystal or ½ tsp. Morton kosher salt
+- 1 tbsp. baking powder
+- 1 tsp. salt (or½ tsp. kosher salt)
+- 1¾ cups suga
 - 2 cups whole milk
-- 1 Tbsp. vanilla extract
+- 1 tbsp. vanilla extract
 
-### Directions
+# Directions
 
-- Place a rack in middle of oven; preheat to 375°. Peel skins from 2 peaches. Halve and remove pits from all of the peaches. Slice ¼" thick. Transfer to a large bowl; add brown sugar, cinnamon, mace, and ¼ cup granulated sugar and toss to combine. Let sit while you prepare the topping (at least 20 minutes).
-- Cook butter in a small skillet over medium heat, stirring often, until it foams, then browns, 5–7 minutes. Pour brown butter into a 13x9" baking dish. Whisk flour, baking powder, salt, and remaining 1¾ cups sugar in a medium bowl. Whisk in milk and vanilla, then pour batter into baking dish by the ladleful so butter swirls and mixes into batter. Top with peaches.
-- Bake cobbler until golden brown and bubbling around the edges, about 1 hour. Let cool slightly before serving.
+1. Place a rack in middle of oven; preheat to 375°. 
+2. Peel skins from 2 peaches. Halve and remove pits from all of the peaches, then slice ¼" thick.
+3. Put sliced peaches in a large bowl and add brown sugar, cinnamon, mace, and ¼ cup granulated sugar. Toss to combine and let sit while you prepare the topping (at least 20 minutes).
+4. Cook butter in a small skillet over medium heat, stirring often, until it foams, then browns, 5–7 minutes. Pour brown butter into a 13x9" baking dish.
+5. Whisk flour, baking powder, salt, and remaining 1¾ cups sugar in a medium bowl. THen whisk in milk and vanilla. 
+6. Pour batter into baking dish by the ladleful, so butter swirls and mixes into batter. Top with peaches.
+7. Bake cobbler until golden brown and bubbling around the edges, about 1 hour. Let cool slightly before serving.

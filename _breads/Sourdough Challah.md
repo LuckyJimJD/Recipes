@@ -1,6 +1,6 @@
 ---
 layout: recipe
-permalink: /sourdough_challah/
+slug: /sourdough_challah/
 title: 'Sourdough Challah'
 source: 'www.thefreshloaf.com/node/4200/sourdough-challah-photos-recipe'
 
@@ -16,17 +16,17 @@ output:
 ## For the Levain
 
 - 35 grams (2 tablespoons) sourdough starter
-- 80 grams (1/3 cup) warm water
+- 80 grams (⅓ cup) warm water
 - 135 grams (1 cup) bread flour
 
 ## For the Dough
 
 - Ripened levain 
-- 60 grams (1/4 cup) warm water
+- 60 grams (¼ cup) warm water
 - 3 large eggs, plus 1 for glazing
-- 1 1/2 tsp salt
-- 55 grams (1/4 cup) vegetable oil
-- 55 grams (3 tablespoons) honey or 60 grams (1/3 cup) sugar
+- 1½ tsp salt
+- 55 grams (¼ cup) vegetable oil
+- 55 grams (3 tablespoons) honey or 60 grams (⅓ cup) sugar
 - 400 grams (3 cups) bread flour
 - Poppy and/or seseme seeds 
 
@@ -50,5 +50,5 @@ output:
 7. 30 minutes before baking, place one rack in the upper third position of oven. Preheat the oven to 350°F. 
 8. Beat the remaining egg with a pinch of salt for glazing the breads.
 9. When the loaves have tripled and do not push back when gently pressed with your finger but remain indented, brush them with the egg glaze. 
-10. Bake rolls for 15 to 20 minutes, 1-pound (450-gram) loaves for 25 to 35 minutes, 1 1/2-pound (680-gram) loaf for 35 to 45 minutes, until very well browned. After the first 20 minutes of baking, switch the loaves from front to back so that they brown evenly; if the large loaf is browning too quickly, tent it with foil. 
+10. Bake rolls for 15 to 20 minutes, 1-pound (450-gram) loaves for 25 to 35 minutes, 1½-pound (680-gram) loaf for 35 to 45 minutes, until very well browned. After the first 20 minutes of baking, switch the loaves from front to back so that they brown evenly; if the large loaf is browning too quickly, tent it with foil. 
 11. When the loaves are done, remove them from the oven and let cool on a rack.

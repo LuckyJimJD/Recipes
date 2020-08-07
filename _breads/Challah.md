@@ -1,6 +1,6 @@
 ---
 layout: recipe
-permalink: /challah/
+slug: /challah/
 title: 'Challah'
 source: 'cooking.nytimes.com/recipes/7199-my-favorite-challah'
 
@@ -15,12 +15,12 @@ output:
 
 ## Ingredients
 
-* 2 1/4 tsp (1 packet) active dry yeast 
+* 2 ¼ tsp (1 packet) active dry yeast 
 * 200 grams lukewarm water 
 * 90 grams sugar (or 82 grams honey), plus 1 tsp sugar for yeast
-* 1/4 cup vegetable oil 
+* ¼ cup vegetable oil 
 * 2 large eggs, plus one for egg wash
-* 1 1/2 tsp salt
+* 1½ tsp salt
 * 450 grams all-purpose flour
 * Poppy and/or sesame seeds
 
@@ -42,17 +42,17 @@ output:
 _Levain_
 
 - 35 grams (2 tablespoons) sourdough starter
-- 80 grams (1/3 cup) warm water
+- 80 grams (⅓ cup) warm water
 - 135 grams (1 cup) bread flour
 
 _Dough_
 
 - Ripened levain 
-- 60 grams (1/4 cup) warm water
+- 60 grams (¼ cup) warm water
 - 3 large eggs, plus 1 for glazing
-- 1 1/2 tsp salt
-- 55 grams (1/4 cup) vegetable oil
-- 55 grams (3 tablespoons) honey or 60 grams (1/3 cup) sugar
+- 1½ tsp salt
+- 55 grams (¼ cup) vegetable oil
+- 55 grams (3 tablespoons) honey or 60 grams (⅓ cup) sugar
 - 400 grams (3 cups) bread flour
 - Poppy and/or seseme seeds 
 

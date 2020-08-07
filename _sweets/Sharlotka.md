@@ -1,21 +1,24 @@
-# Sharlotka
+---
+layout: recipe
+slug: /sharlotka/
+title: Sharlotka
 
-Tags: Russian, apple, cake
+---
 
 # Ingredients
 
 - 3 large eggs, at room temp
 - 1 cup granulated sugar
 - 1 teaspoon vanilla extract
-- 1 1/3 cups all-purpose flour
+- 1 ⅓ cups all-purpose flour
 - 1/8 tsp (pinch) baking powder
 - 1 lb (2 med/large) Granny Smith apples
-- 1/4 cup sour cream (optional)
+- ¼ cup sour cream (optional)
 - Butter for greasing pan
 - Powdered sugar
 - Ground cinnamon
 
-# Directions.
+# Directions
 
 1. Heat oven to 350° F,
 2. Core, peel, and cut apple into small pieces.

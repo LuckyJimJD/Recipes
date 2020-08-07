@@ -1,15 +1,19 @@
-# Traditional French Cassoulet
+---
+layout: recipe
+slug: cassoulet
+title: Cassoulet
+source: 'www.seriouseats.com/recipes/2014/10/traditional-french-cassoulet-recipe.html'
 
-Link: https://www.seriouseats.com/recipes/2014/10/traditional-french-cassoulet-recipe.html
+---
 
 # Ingredients
 
 - 1 pound dried cannellini beans
 - Kosher salt
 - 1 quart homemade or store-bought low-sodium chicken stock
-- 3 packets (3/4 ounces) unflavored gelatin, such as [Knox](http://www.amazon.com/dp/B007Y3HM5C/?tag=se-recipe-ingredient-20) (see note)
+- 3 packets (¾ ounces) unflavored gelatin
 - 2 tablespoons duck fat (optional)
-- 8 ounces salt pork, cut into 3/4-inch cubes
+- 8 ounces salt pork, cut into ¾-inch cubes
 - 6 to 8 pieces of chicken thighs and drumsticks, or 4 whole chicken leg quarters
 - Freshly ground black pepper
 - 1 pound garlic sausage (2 to 4 links depending on size)
@@ -29,4 +33,4 @@ Link: https://www.seriouseats.com/recipes/2014/10/traditional-french-cassoulet-r
 4. Add sausages and cook, turning occasionally, until well-browned on both sides. Transfer to bowl with salt pork and chicken. Drain all but 2 tablespoons fat from pot.
 5. Add onions to pot and cook, stirring and scraping up browned bits from the bottom of the pot. Cook until onions are translucent but not browned, about 4 minutes. Add drained beans, carrot, celery, garlic, parsley, bay leaves, cloves, and stock/gelatin mixture. Bring to a simmer over high heat. Reduce to low, cover Dutch oven and cook until beans are almost tender but retain a slight bite, about 45 minutes.
 6. Using tongs, remove carrots, celery, parsley, bay leaves, and cloves and discard. Add meats to pot and stir to incorporate, making sure that the chicken pieces end up on top of the beans with the skin facing upwards. Beans should be almost completely submerged. Transfer to oven and cook, uncovered, until a thin crust forms on top, about 2 hours, adding more water by pouring it carefully down the side of the pot as necessary to keep beans mostly covered.
-7. Break crust with a spoon and shake pot gently to redistribute. Return to oven and continue cooking, stopping to break and shake the crust every 30 minutes until you reach the 4 1/2 hour mark. Return to oven and continue cooking undisturbed until the crust is deep brown and thick, about 5 to 6 hours total. Serve immediately.
+7. Break crust with a spoon and shake pot gently to redistribute. Return to oven and continue cooking, stopping to break and shake the crust every 30 minutes until you reach the 4½ hour mark. Return to oven and continue cooking undisturbed until the crust is deep brown and thick, about 5 to 6 hours total. Serve immediately.

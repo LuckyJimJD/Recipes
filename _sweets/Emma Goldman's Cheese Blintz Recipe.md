@@ -1,11 +1,18 @@
-# Emma Goldman's Cheese Blintz Recipe
+---
+layout: recipe
+slug: /goldman_blintzes/
+title: Emma Goldman's Cheese Blintz Recipe
+source: 'https://libcom.org/library/emma-goldmans-cheese-blintz-recipe'
 
-Tags: Jewish, blintzes, pancakes
-URL: https://libcom.org/library/emma-goldmans-cheese-blintz-recipe
+---
 
-"I wish you were here for I am making Blintzes"... - Emma Goldman to Alexander Berkman’s companion, Emmy Eckstein, Aug. 28, 1934.
+> I wish you were here for I am making Blintzes ... 
 
-Having been starved for so many years, he now ate ravenously. It was extraordinary what an amount of food he could absorb, especially of his favourite Jewish dishes, of which he had been deprived so long. It was nothing at all for him to follow up a substantial meal with a dozen blintzes (a kind of Yiddish pancake containing cheese or meat) or a huge apple pie. I cooked and baked, happy in his enjoyment of the food. Most of my friends were in the habit of paying court to my culinary art, but no one ever did so much justice to it as my poor, famished Sasha. - Emma Goldman, Living My Life
+- Emma Goldman to Alexander Berkman’s companion, Emmy Eckstein, Aug. 28, 1934.
+
+> Having been starved for so many years, he now ate ravenously. It was extraordinary what an amount of food he could absorb, especially of his favourite Jewish dishes, of which he had been deprived so long. It was nothing at all for him to follow up a substantial meal with a dozen blintzes (a kind of Yiddish pancake containing cheese or meat) or a huge apple pie. I cooked and baked, happy in his enjoyment of the food. Most of my friends were in the habit of paying court to my culinary art, but no one ever did so much justice to it as my poor, famished Sasha. 
+
+- Emma Goldman, _Living My Life_
 
 # Ingredients
 
@@ -26,7 +33,7 @@ They are the principal thing; they must be as fine as tissue paper. You beat up 
 
 The cheese is prepared with an egg and sugar.
 
-Assemble and Fry
+## Assemble and Fry
 
 Small pieces of the cheese mixture are wrapped in the blätter. Then fry until brown.
 

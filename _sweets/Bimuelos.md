@@ -1,7 +1,6 @@
 ---
 layout: recipe
-permalink: /Bimuelos/
-
+slug: /Bimuelos/
 title: Bimuelos
 
 output: 
@@ -17,18 +16,18 @@ output:
 
 - 2 tablespoons vegetable oil (plus more for frying)
 - 1 tablespoon active dry yeast
-- 1 1/2 cups warm water
-- Juice of 1 orange (about 1/3 cup)
+- 1½ cups warm water
+- Juice of 1 orange (about ⅓ cup)
 - 1 teaspoon orange zest
-- 3/4 teaspoon salt
+- ¾ teaspoon salt
 - 1 tablespoon plus 1 teaspoon sugar
 - 1 cup honey
-- 3 1/2 cups all-purpose flour
+- 3½ cups all-purpose flour
 
 ## Directions 
 
 1. Combine flour, 1 tablespoon sugar, and salt in large bowl. Set aside. 
-2. Pour 1/2 cup water into another large bowl. Sprinkle remaining sugar and yeast over water. Let stand until mixture becomes foamy (about 10 minutes). 
+2. Pour½ cup water into another large bowl. Sprinkle remaining sugar and yeast over water. Let stand until mixture becomes foamy (about 10 minutes). 
 3. Add flour mixture, remaining water, 3 tablespoons of orange juice, orange zest, and 2 tablespoons of oil to yeast mixture. Stir with wooden spoon to combine (about 30 seconds)
 4. Knead dough with hands until smooth (about 1-2 minutes). Add additional flour (1 tablespoon at at time) to reduce stickiness. 
 5. Remove dough and place in clean, lightly-oiled bowl. Cover with damp towel and let stand until dough is doubled in volume (about 60-90 minutes)

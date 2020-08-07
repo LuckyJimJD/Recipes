@@ -6,14 +6,14 @@ Tags: fish, grill, salmon
 # Ingredients
 
 - ~2 lbs Salmon filet
-- 1/2 cup brown sugar
-- 1/4 cup coarse sea salt
+- ½ cup brown sugar
+- ¼ cup coarse sea salt
 - 1 tablespoon freshly ground black pepper
-- 1/2 to 1 cup wood chips (cedar or hickory)
+- ½ to 1 cup wood chips (cedar or hickory)
 
 # Directions
 
-1. Combine the brown sugar, salt, and pepper in a small bowl. Put about 1/3 of it on the bottom of a baking pan, set the salmon on top and cover the salmon with the remaining sugar-salt mixture.
+1. Combine the brown sugar, salt, and pepper in a small bowl. Put about ⅓ of it on the bottom of a baking pan, set the salmon on top and cover the salmon with the remaining sugar-salt mixture.
 2. Cover and chill for at least 4 hours and up to overnight. The mixture will pull out moisture from the salmon and infuse it with flavor, helping create the distinctive extremely firm, slightly sweet flavor of traditionally smoked salmon.
 3. Put the wood chips in a large bowl, cover them with water, and let them soak at least 30 minutes. Drain and put them in a smoker box or tin foil.
 4. Prepare grill for indirect heat:

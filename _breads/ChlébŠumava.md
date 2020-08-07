@@ -1,6 +1,6 @@
 ---
 layout: recipe
-permalink: /chleb_sumava/
+slug: /chleb_sumava/
 title: 'Chléb Šumava (Czech Light Rye)'
 source: 'recepty.cuketka.cz/chleb-sumava/'
 
@@ -25,7 +25,7 @@ output:
 - 300-350 grams bread flour (pšeničné chlebové mouky)
 - 170 grams water (vody)
 - 12 grams (2 tsp) salt (soli)
-- 1 1/2 tsp caraway seeds (kmínu)
+- 1½ tsp caraway seeds (kmínu)
 
 # Directions
 

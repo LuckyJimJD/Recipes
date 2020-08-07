@@ -1,12 +1,15 @@
-# Tzimmis with Tahini Dressing
+---
+layout: recipe
+slug: tzimmis_tahini
+title: Tzimmis with Tahini Dressing
 
-Tags: Jewish, vegetables
+---
 
 # Ingredients
 
-- 1 bunch carrots, peeled, halved lengthwise if large, and cut into ½” rounds or semicircles
-- 1 (1-1/2 pound) butternut squash, peeled, seeded, and cut into ½” cubes
-- 2 to 3 (about ¾ pound) beets, peeled, trimmed, and cut into ½” cubes
+- 1 bunch carrots, peeled, halved lengthwise if large, and cut into½” rounds or semicircles
+- 1 to 1½ pound butternut squash, peeled, seeded, and cut into ½” cubes
+- 2 to 3 beets (about ¾ pound), peeled, trimmed, and cut into ½” cubes
 - 1 small head garlic, cloves separated and peeled, halved lengthwise if large
 - ¼ cup extra virgin olive oil, divided
 - ¼ cup orange juice

@@ -1,11 +1,15 @@
-# Short Ribs with Orange & Honey
+---
+layout: recipe
+slug: flanken_orange_honey
+title: Flanken with Orange & Honey
 
-Link: https://www.myjewishlearning.com/the-nosher/passover-recipes-short-ribs-with-orange-and-honey/
-Tags: Jewish, beef
+source: 'www.myjewishlearning.com/the-nosher/passover-recipes-short-ribs-with-orange-and-honey/'
+
+---
 
 # Ingredients
 
-- 2 pounds short ribs
+- 2 pounds flanken or short ribs
 - ½ cup freshly squeezed orange juice
 - 1 Tablespoon pomegranate juice
 - 2 Tablespoons brandy

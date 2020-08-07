@@ -1,6 +1,6 @@
 ---
 layout: recipe
-permalink: / sourdough_rye/
+slug: / sourdough_rye/
 title: 'Sourdough Rye'
 source: 'www.kingarthurflour.com/recipes/jeffreys-sourdough-rye-bread-recipe'
 
@@ -20,7 +20,7 @@ output:
 - 150g bread or all-purpose flour
 - 170g room-temperature water
 - 1 teaspoon active dry yeast
-- 1 1/2 teaspoons salt
+- 1½ teaspoons salt
 
 
 # Directions

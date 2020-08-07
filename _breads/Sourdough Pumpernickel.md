@@ -1,6 +1,6 @@
 ---
 layout: recipe
-permalink: / sourdough_pumpernickel/
+slug: / sourdough_pumpernickel/
 title: 'Sourdough Pumpernickel'
 
 source: 'www.kingarthurflour.com/recipes/sourdough-pumpernickel-bread-recipe'
@@ -16,16 +16,16 @@ output:
 
 ## Sponge
 
-- 1 1/3 cups (294g) ripe (fed) sourdough starter
+- 1 ⅓ cups (294g) ripe (fed) sourdough starter
 - 1 cup (227g) room temperature water, black coffee, or potato water (water in which potatoes have been boiled)
 - 2 cups (213g) pumpernickel flour
-- 1/2 cup (64g) chopped onion
+- ½ cup (64g) chopped onion
 
 ## Dough
 
 - 2 tablespoons (25g) vegetable oil
 - 2 teaspoons salt
-- 1/4 cup (85g) molasses
+- ¼ cup (85g) molasses
 - 4 cups (482g) all-purpose flour
 
 # Directions

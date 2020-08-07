@@ -1,6 +1,6 @@
 ---
 layout: recipe
-permalink: /baguettes/
+slug: /baguettes/
 title: 'Baguettes'
 source: 'www.kingarthurflour.com/recipes/classic-baguettes-recipe'
 
@@ -15,16 +15,16 @@ output:
 
 ## For the Poolish
 
-- 1/2 cup (113g) cool water
+- ½ cup (113g) cool water
 - 1/16 teaspoon active dry yeast or instant yeast
 - 1 cup (120g) all-purpose flour
 
 ## FOr the Dough
 
 - Ripened starter
-- 1 1/2 teaspoons active dry yeast or instant yeast
+- 1½ teaspoons active dry yeast or instant yeast
 - 1 cup + 2 tablespoons (255g) lukewarm water
-- 3 1/2 cups (418g) all-purpose flour
+- 3½ cups (418g) all-purpose flour
 - 2 teaspoons salt
 
 # Directions
@@ -51,7 +51,7 @@ output:
 
 ## Baking 
 
-1. Towards the end of the rising time, preheat oven to 450°F & place a cast iron pan on the floor or lowest rack of the oven. If using a baking stone, place it on a middle rack. Boil 1 1/2 cups of water.
+1. Towards the end of the rising time, preheat oven to 450°F & place a cast iron pan on the floor or lowest rack of the oven. If using a baking stone, place it on a middle rack. Boil 1½ cups of water.
 2. If baguettes have risen in a couche or dish towel, gently roll them (seam side down) onto a lightly greased or lined baking sheet. If using a baking stone, roll them onto a piece of parchment, and lift the parchment onto a baker's peel.
 3. Using a baker's lame or a very sharp knife held at about a 45° angle, make three to five long lengthwise slashes in each baguette.
 4. Load the baguettes into the oven. If baking on a stone, use a baker’s peel to transfer the baguettes, parchment and all, onto the hot stone. Carefully pour the boiling water into the cast iron pan, and quickly shut the oven door. The billowing steam created by the boiling water will help the baguettes rise, and give them a lovely, shiny crust.

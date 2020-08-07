@@ -1,19 +1,22 @@
-# Bread Pudding
+---
+layout: recipe
+slug: /bread_pudding/
+title: Sunken Apple & Honey Cake
+source: 'www.williams-sonoma.com/recipe/bread-pudding.html'
 
-Tags: bread pudding, dessert
-URL: https://www.williams-sonoma.com/recipe/bread-pudding.html
+---
 
 # Ingredients
 
-- 12 slices day-old baguette, cut into 3/4-inch cubes
+- 12 slices day-old baguette, cut into ¾-inch cubes
 - 4 eggs, at room temperature
-- 1/2 cup firmly packed light brown sugar
-- 3/4 tsp. vanilla extract
-- 1/2 tsp. ground cinnamon
+- ½ cup firmly packed light brown sugar
+- ¾ tsp. vanilla extract
+- ½ tsp. ground cinnamon
 - Pinch of freshly grated nutmeg
 - Pinch of salt
 - 4 cups milk
-- 1/4 cup dried cranberries or raisins
+- ¼ cup dried cranberries or raisins
 - Confectioners’ sugar for dusting
 
 # Directions

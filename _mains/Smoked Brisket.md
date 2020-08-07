@@ -1,6 +1,9 @@
-# Smoked Brisket
+---
+layout: recipe
+slug: smoked_brisket
+title: Smoked Brisket
 
-Tags: beef, brisket, grill
+---
 
 # Ingredients
 

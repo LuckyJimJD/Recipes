@@ -1,6 +1,6 @@
 ---
 layout: recipe
-permalink: /bialys/
+slug: /bialys/
 title: 'Bialys'
 source: 'www.kingarthurflour.com/recipes/classic-bialys-recipe'
 
@@ -16,10 +16,10 @@ output:
 ## Dough
 
 - 7 cups (843g) bread or all-purpose flour
-- 2 3/4 teaspoons salt
-- 1 1/4 teaspoons instant yeast
-- 1/2 teaspoon onion powder
-- 2 1/4 cups (510g) water
+- 2 ¾ teaspoons salt
+- 1 ¼ teaspoons instant yeast
+- ½ teaspoon onion powder
+- 2 ¼ cups (510g) water
 
 ## Filling
 

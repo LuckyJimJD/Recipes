@@ -1,22 +1,25 @@
-# One-Bowl Poundcake
+---
+layout: recipe
+slug: /poundcake/
+title: One-Bowl Poundcake
+source: 'https://www.nytimes.com/2020/04/03/dining/pantry-poundcake-coronavirus.html'
 
-Tags: cake
-URL: https://www.nytimes.com/2020/04/03/dining/pantry-poundcake-coronavirus.html
+--- 
 
 # Ingredients
 
 - 1 cup sugar
 - Orange, lime or lemon zest
-- 1/2 cut melted butter or vegetable oil
+- ½ cut melted butter or vegetable oil
 - 2 eggs
-- 1/2 cup plain yoghurt, buttermilk, or sour cream
+- ½ cup plain yoghurt, buttermilk, or sour cream
 - Vanilla or almond extract
-- 1/4 tsp grated nutmeg
-- 1/4 tsp salt
-- 1/4 tsp baking soda
+- ¼ tsp grated nutmeg
+- ¼ tsp salt
+- ¼ tsp baking soda
 - 1 tsp baking powder
-- 1/2 cup cornmeal
-- 1 1/4 cups flour
+- ½ cup cornmeal
+- 1 ¼ cups flour
 
 # Directions
 

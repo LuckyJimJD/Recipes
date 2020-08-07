@@ -1,7 +1,11 @@
-# Hungarian Cream of Mushroom Soup
+---
+layout: recipe
+slug: hungarian_mushroom_soup
+title: Hungarian Cream of Mushroom Soup
 
-Link: https://montanahappy.com/to-die-for-rustic-hungarian-mushroom-soup/
-Tags: mushrooms, soup
+source: 'https://montanahappy.com/to-die-for-rustic-hungarian-mushroom-soup/'
+
+---
 
 # Ingredients
 
@@ -16,7 +20,7 @@ Tags: mushrooms, soup
 - 3 tablespoons all-purpose flour
 - ground black pepper to taste
 - 2 teaspoons lemon juice
-- 1/2 cup sour cream or Greek yogurt
+- ½ cup sour cream or Greek yogurt
 - 2 tablespoons chopped fresh parsley
 
 # Directions

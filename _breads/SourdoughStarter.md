@@ -1,6 +1,6 @@
 ---
 layout: recipe
-permalink: /sourdouogh_starter/
+slug: /sourdouogh_starter/
 title: 'Sourdough Starter'
 
 output: 
@@ -14,7 +14,7 @@ output:
 
 - To 4 ounces (113 grams) of ripe starter, add 4 ounces (113 grams) each of all-purpose or bread flour and room-temperature water.
   - To increase acidity (for a more sour flavor), feed with whole wheat flour or a mix of rye & all-purpose or bread flour. 
-  - If you don't have a kitchen scale, you can measure by volume: about 1 cup each of starter & flour, and 1/2 cup of water. 
+  - If you don't have a kitchen scale, you can measure by volume: about 1 cup each of starter & flour, and½ cup of water. 
   - Discarded ripe starter can be used for pancakes, etc. 
 - Mix until smooth and cover. 
 - Let sit at room temperature for about 2 hours (until it starts to bubble) before refrigerating. 

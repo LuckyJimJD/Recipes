@@ -1,6 +1,6 @@
 ---
 layout: recipe
-permalink: /celozrnny_zitny_chleb/
+slug: /celozrnny_zitny_chleb/
 title: 'Celozrnný Žitný Chléb (Czech Wholemeal Rye)'
 source: 'recepty.cuketka.cz/celozrnny-zitny-chleb/'
     

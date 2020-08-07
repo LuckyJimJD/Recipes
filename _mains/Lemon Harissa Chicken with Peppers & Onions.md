@@ -1,11 +1,14 @@
-# Lemon Harissa Chicken with Peppers & Onions
+---
+layout: recipe
+slug: lemon_harissa_chicken
+title: Lemon Harissa Chicken with Peppers & Onions
+source: 'https://tasteandsee.com/lemon-harissa-chicken/'
 
-Link: https://tasteandsee.com/lemon-harissa-chicken/
-Tags: chicken
+---
 
-# **Ingredients**
+# Ingredients
 
-## **For the Chicken And Marinade**
+## For the Chicken & Marinade
 
 - 3 tablespoons extra virgin olive oil
 - 4 garlic cloves, minced
@@ -14,13 +17,13 @@ Tags: chicken
 - 2 tablespoons paprika
 - 2 tablespoons spicy Harissa
 - 1 teaspoon salt and pepper
-- 4 boneless skinless chicken breasts, cut into 1 1/2-inch cubes
-- 3/4 cup plain Greek yogurt or sour cream
+- 4 boneless skinless chicken breasts, cut into 1½-inch cubes
+- ¾ cup plain Greek yogurt or sour cream
 - Parsley finely chopped for garnish
 - Sliced green and black olives for garnish (optional)
 - Capers for garnish (optional)
 
-## **For the Roasted Vegetables:**
+## For the Roasted Vegetables
 
 - 2 tablespoons olive oil
 - 1 yellow pepper
@@ -30,7 +33,7 @@ Tags: chicken
 - 1 teaspoon pepper
 - 1 teaspoon paprika
 
-# **Instructions**
+# Directions
 
 1. For the marinade, combine olive oil, garlic, lemon juice, rosemary, paprika, harissa, salt and pepper in a ziploc bag. Seal and mix the ingredients together.
 2. Add the cubed chicken. Refrigerate for at least 3 hours and up to 6 hours.

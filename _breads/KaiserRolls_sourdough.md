@@ -1,6 +1,6 @@
 ---
 layout: recipe
-permalink: /sourdough_kaiser_rolls/
+slug: /sourdough_kaiser_rolls/
 title: 'Sourdough Kaiser Rolls'
 
 output: 
@@ -28,5 +28,5 @@ output:
 3. Dip kaiser roll stamp in rye flour and press down on roll. Cuts should be deep, but be careful not to cut all the way through. 
 4. Press the cut side of the rolls into a dish of sesame seeds or poppy seeds.
 9. Put the rolls, cut side down, onto a parchment-lined baking sheet. Cover and let rise until doubled, or let rise one hour then refrigerate overnight. 
-5. Heat oven to 425 F. Turn rolls over so they are cut side up. Place rolls in oven and pour 1/2 cup boiling water into pan placed on bottom of oven to create steam. 
+5. Heat oven to 425 F. Turn rolls over so they are cut side up. Place rolls in oven and pour½ cup boiling water into pan placed on bottom of oven to create steam. 
 6. Bake for 15 minutes, turning the rolls half way through the bake. Immediately put the rolls on a cooling rack. 

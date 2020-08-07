@@ -1,6 +1,6 @@
 ---
 layout: recipe
-permalink: /kaiser_rolls/
+slug: /kaiser_rolls/
 title: 'Kaiser Rolls'
 
 output: 
@@ -15,12 +15,12 @@ output:
 ## For the Dough
 
 - 3 cups (361g) King Arthur Unbleached All-Purpose Flour
-- 1 1/2 teaspoons instant yeast
-- 1 1/2 teaspoons sugar
-- 1 1/4 teaspoons salt
+- 1½ teaspoons instant yeast
+- 1½ teaspoons sugar
+- 1 ¼ teaspoons salt
 - 1 large egg
 - 2 tablespoons (28g) unsalted butter, softened
-- 3/4 cup (170g) lukewarm water
+- ¾ cup (170g) lukewarm water
 
 ## For the Topping
 

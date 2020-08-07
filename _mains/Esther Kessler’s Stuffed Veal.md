@@ -1,9 +1,12 @@
-# Esther Kessler’s Stuffed Veal
+---
+layout: recipe
+slug: stuffed_veal
+title: Esther Kessler’s Stuffed Veal
+source: 'https://forward.com/food/138684/shabbat-meals-a-grandmothers-perfect-stuffed-veal/'
 
-Link: https://forward.com/food/138684/shabbat-meals-a-grandmothers-perfect-stuffed-veal/
-Tags: Jewish, veal
+---
 
-# **Ingredients**
+# Ingredients
 
 - 2 large onions
 - 1 medium carrot, grated
@@ -14,9 +17,9 @@ Tags: Jewish, veal
 - vegetable oil
 - salt and pepper
 - Sweet Hungarian paprika
-- 3 ½ to 4 pound breast of veal, with bones
+- 3½ to 4 pound breast of veal, with bones
 
-# **Directions**
+# Directions
 
 1. Pre-heat oven to 325.
 2. Halve the onions. Finely chop one of those halves for the stuffing. Cut remaining onion into rings and strew over the bottom of a roasting pan.
@@ -26,4 +29,4 @@ Tags: Jewish, veal
 
     loosely
 
-6. Season meat with salt, pepper and paprika. Rub with vegetable oil. Place in roasting pan, on top of onions, fat side up. Add ½ cup water. Cover and cook for 3 hours, or until meat is fork tender. Let cool 15 minutes before slicing.
+6. Season meat with salt, pepper and paprika. Rub with vegetable oil. Place in roasting pan, on top of onions, fat side up. Add½ cup water. Cover and cook for 3 hours, or until meat is fork tender. Let cool 15 minutes before slicing.

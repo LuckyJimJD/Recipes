@@ -1,11 +1,15 @@
-# Kuře na paprice
+---
+layout: recipe
+slug: kure_na_paprice
+title: Kuře na Paprice (Paprika Chicken)
 
-Link: https://recepty.vareni.cz/klasicke-kure-na-paprice/
-Tags: Czech, chicken
+source: 'https://recepty.vareni.cz/klasicke-kure-na-paprice/'
+
+---
 
 # Ingredients
 
-- 2 dl cream (12%)
+- 200 ml cream (12%)
 - 50 g butter
 - 40 g flour
 - 1 piece onion

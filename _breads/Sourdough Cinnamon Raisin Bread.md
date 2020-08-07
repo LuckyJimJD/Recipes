@@ -1,6 +1,6 @@
 ---
 layout: recipe
-permalink: /sourdough_cinnamon_raisin/
+slug: /sourdough_cinnamon_raisin/
 title: 'Sourdough Cinnamon Raisin Bread'
 source: 'www.kingarthurflour.com/recipes/cinnamon-raisin-sourdough-bread-recipe'
 
@@ -15,27 +15,27 @@ output:
 
 ## Dough
 
-- 1/2 cup (113g) sourdough starter, ripe or discard
+- ½ cup (113g) sourdough starter, ripe or discard
 - 3 cups (361g) all-purpose flour
-- 2 1/2 teaspoons instant yeast
+- 2½ teaspoons instant yeast
 - 1 tablespoon sugar
-- 1 1/4 teaspoons salt
+- 1 ¼ teaspoons salt
 - 1 large egg
 - 5 tablespoons (71g) soft butter
-- 2/3 cup (152g) lukewarm water
+- ⅔ cup (152g) lukewarm water
 
 ## Filling
 
-- 1/4 cup (50g) sugar
-- 1 1/2 teaspoons ground cinnamon
+- ¼ cup (50g) sugar
+- 1½ teaspoons ground cinnamon
 - 2 teaspoons all-purpose flour
 - 1 large egg, beaten with 1 tablespoon water
-- 1/2 cup (74g) raisins
+- ½ cup (74g) raisins
 
 # Directions
 
 1. To make the dough: Combine all of the dough ingredients, and mix and knead — using your hands, a stand mixer, or a bread machine set on the dough cycle — to make a soft, smooth dough.
-2. Place the dough in a lightly greased container, and allow it to rise for 1 1/2 to 2 hours, until it's just about doubled in bulk.
+2. Place the dough in a lightly greased container, and allow it to rise for 1½ to 2 hours, until it's just about doubled in bulk.
 3. While the dough is rising, make the filling by stirring together the sugar, cinnamon, and flour.
 4. Gently deflate the dough, and transfer it to a lightly greased work surface.
 5. Roll and pat the dough into a rough rectangle approximately 6" x 20".
