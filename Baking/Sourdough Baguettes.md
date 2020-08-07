@@ -4,7 +4,7 @@ title: 'Sourdough Baguettes'
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: recipe.latex
+    template: recipe.tex
     
 ---
 

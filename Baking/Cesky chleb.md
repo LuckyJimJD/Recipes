@@ -9,7 +9,7 @@ output:
 ---
 
 
-# Chléb šumava 
+# Chléb Šumava 
 
 ## Ingredients 
 
@@ -60,8 +60,7 @@ output:
 
 \newpage 
 
-
-# Tmavý žitný (Dark Rye)
+# Tmavý Žitný Chléb 
 
 ## Ingredients 
 
@@ -75,6 +74,47 @@ output:
 
 1. Mix flour, salt and yeast.
 2. Add water and vinegar (optinal), stir until thoroughly mixed, and knead.
-3. Divide dough and shape into 2 loaves. Place in brotforms and let rise at room temperature for a few hours (or overnight in refrigerator)
+3. Divide dough and shape into 2 loaves. Place in brotforms and let rise at room temperature for a few hours or refrigerate overnight.
 4. About 30-60 minutes before baking, heat oven to 350° F (180° C). 
 5. Slash tops of loaves and bake for 45-60 minutes.
+
+\vspace{4mm}
+
+--- 
+
+\vspace{4mm}
+
+# Rohlíky
+
+## Ingredients
+
+### Rolls
+
+- 4 cups unbleached flour
+- 4 Tbsp butter, slightly melted
+- 2 packages dry yeast
+- 1 cup lukewarm milk (or water)
+- 1 tsp sugar
+- 2 tsp salt
+- 1 egg, lightly beaten
+
+### Topping
+
+- 1 egg, lightly beaten
+- A little milk
+- Coarse salt
+- Poppy or caraway seeds
+
+
+## Directions
+
+1. Mix yeast, 2 tbsp milk, and 1 tsp sugar and let sit to activate.
+2. Add 2 tbsp flour and 1/2 cup lukewarm milk to yeast and let rise for 5-10 minutes.
+3. Mix 4 cups flour and salt. Add yeast mixture, remaining milk, butter, & egg.
+4. Knead by hand or in mixer until soft dough is formed. Cover with warm damp cloth and place in unheated oven to rise for 1 hour.
+5. Heat oven to 375° F.
+6. Divide dough into 3 balls, roll out slightly into circles, cut each circle into 3 triangular pieces, roll gently to about 3/4 inch thick.
+7. Starting at wide end, roll each piece into a crescent, and place on parchment-covered baking sheet.
+8. Mix egg with a little milk. Brush egg mixture on rohlíky, then sprinkle with coarse salt and caraway or poppy seeds.
+9. Cover and let rise for at least 20 minutes.
+10. Bake for 15 to 20 minutes, until slightly golden.

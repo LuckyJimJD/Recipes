@@ -8,7 +8,7 @@ geometry: hmarginratio=1:1,top=1in,bottom=1in,left=1.25in,right=1.25in
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: recipe.latex
+    template: recipe.tex
     
 ---
 
