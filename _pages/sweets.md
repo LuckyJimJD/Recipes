@@ -1,5 +1,5 @@
 ---
-layout: no_foot
+layout: recipe
 permalink: /sweets/
 title: Sweets
 ---

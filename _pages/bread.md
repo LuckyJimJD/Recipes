@@ -1,10 +1,10 @@
 ---
-layout: no_foot
+layout: recipe
 permalink: /bread/
 title: Bread
 ---
 
-![]({{ site.baseurl }}/assets/img/CeskyChleb.png)
+![]({{ site.baseurl }}/assets/img/bread.png)
 
 
 {% for bread in site.breads %}
