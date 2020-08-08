@@ -4,7 +4,7 @@ title: ﻿Dr. Pepper Braised Short Ribs with Butternut Squash Risotto
 
 ---
 
-#### Serves 4 
+### Serves 4 
 
 # Ingredients 
 

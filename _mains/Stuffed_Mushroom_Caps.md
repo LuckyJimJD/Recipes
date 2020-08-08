@@ -4,7 +4,7 @@ title: ﻿Stuffed Mushroom Caps
 
 ---
 
-#### Makes 1 portion
+### Makes 1 portion
 
 # Ingredients
 

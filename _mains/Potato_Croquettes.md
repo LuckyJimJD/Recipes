@@ -4,7 +4,7 @@ title: Potato Croquettes
 
 ---
 
-#### Makes 2 portions
+### Makes 2 portions
 
 # Ingredients
 

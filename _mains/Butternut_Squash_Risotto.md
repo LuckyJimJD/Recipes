@@ -4,7 +4,7 @@ title: Butternut Squash Risotto
 
 ---
 
-#### Serves 4 
+### Serves 4 
 
 # Ingredients
 
