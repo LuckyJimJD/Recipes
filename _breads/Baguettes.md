@@ -19,7 +19,7 @@ output:
 - 1/16 teaspoon active dry yeast or instant yeast
 - 1 cup (120g) all-purpose flour
 
-## FOr the Dough
+## For the Dough
 
 - Ripened starter
 - 1½ teaspoons active dry yeast or instant yeast
