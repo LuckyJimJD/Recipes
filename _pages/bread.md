@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: no_foot
 permalink: /bread/
 title: Bread
 ---
