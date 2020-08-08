@@ -1,12 +1,6 @@
 ---
 layout: recipe
-slug: /rohliky/
 title: 'Rohlíky'
-
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: recipe.tex
     
 ---
 

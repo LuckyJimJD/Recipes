@@ -1,6 +1,5 @@
 ---
 layout: recipe
-slug: /bread_pudding/
 title: Sunken Apple & Honey Cake
 source: 'www.williams-sonoma.com/recipe/bread-pudding.html'
 

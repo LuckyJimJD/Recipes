@@ -1,8 +1,7 @@
 ---
 layout: recipe
-slug: /goldman_blintzes/
 title: Emma Goldman's Cheese Blintz Recipe
-source: 'https://libcom.org/library/emma-goldmans-cheese-blintz-recipe'
+source: 'libcom.org/library/emma-goldmans-cheese-blintz-recipe'
 
 ---
 

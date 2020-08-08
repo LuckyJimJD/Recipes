@@ -1,6 +1,5 @@
 ---
 layout: recipe
-slug: /apple_scones/
 title: Apple Cinnamon Scones
 source: 'https://www.kingarthurflour.com/recipes/fresh-apple-cinnamon-scones-recipe'
 

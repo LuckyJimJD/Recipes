@@ -1,18 +1,12 @@
 ---
 layout: recipe
-slug: /Bimuelos/
 title: Bimuelos
-
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: recipe.tex
     
 ---
 
 #### Makes about 14 
 
-## Ingredients
+# Ingredients
 
 - 2 tablespoons vegetable oil (plus more for frying)
 - 1 tablespoon active dry yeast
@@ -24,7 +18,7 @@ output:
 - 1 cup honey
 - 3½ cups all-purpose flour
 
-## Directions 
+# Directions 
 
 1. Combine flour, 1 tablespoon sugar, and salt in large bowl. Set aside. 
 2. Pour½ cup water into another large bowl. Sprinkle remaining sugar and yeast over water. Let stand until mixture becomes foamy (about 10 minutes). 

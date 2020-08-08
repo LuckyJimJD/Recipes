@@ -1,6 +1,5 @@
 ---
 layout: recipe
-slug: chile_pasilla
 title: Pesto
 
 ---

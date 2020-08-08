@@ -1,6 +1,5 @@
 ---
 layout: recipe
-slug: butternut_squash_risotto
 title: Halušky
 
 ---

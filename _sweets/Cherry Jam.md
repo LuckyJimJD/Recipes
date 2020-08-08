@@ -1,6 +1,5 @@
 ---
 layout: recipe
-slug: /cherry_jam/
 title: Cherry Jam
 
 ---

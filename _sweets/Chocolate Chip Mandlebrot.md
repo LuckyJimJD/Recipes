@@ -1,6 +1,5 @@
 ---
 layout: recipe
-slug: /mandlebrot/
 title: Chocolate Chip Mandlebrot
 source: 'https://www.kingarthurflour.com/recipes/chocolate-chip-walnut-mandelbrot-recipe'
 
