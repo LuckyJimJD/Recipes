@@ -23,7 +23,7 @@ source: 'recepty.cuketka.cz/celozrnny-zitny-chleb/'
 - 50g sunflower seeds
 - 30g dark rye malt
 - 15g of salt
-- butter to smear the mold
+- Butter for greasing the loaf pan
 
 # Directions
 
