@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Shepherd's Pie
+source: 'altonbrown.com/shepherds-pie-recipe/'
 
 ---
 
