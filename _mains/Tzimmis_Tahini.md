@@ -17,14 +17,14 @@ title: Tzimmis with Tahini Dressing
 - Pinch sea or kosher salt (optional)
 - ¼ cup tahini
 - ¼ cup honey
-- 2 tablespoons pomegranate arils (optional)
+- 2 Tbsps pomegranate arils (optional)
 
 # Directions
 
 1. Preheat the oven to 400° F.
 2. Arrange the carrots, squash, and beets side-by-side in a single layer on a large rimmed baking sheet.
 3. Sprinkle with the garlic cloves.
-4. Drizzle evenly with the orange juice and 2 tablespoons of olive oil.
+4. Drizzle evenly with the orange juice and 2 Tbsps of olive oil.
 5. Place in the preheated oven and roast for 20 minutes.
 6. Pull the pan from the oven.
 7. Add the leeks and dates, drizzle with the rest of the olive oil, and season with a pinch of salt (if using).
@@ -33,7 +33,7 @@ title: Tzimmis with Tahini Dressing
 10. Roast for 20 minutes.
 11. In a small bowl, mix together the tahini and honey until well combined. The mixture will be thick.
 12. Pull the veggies from the oven.
-13. Add 1 tablespoon of the tahini-honey mixture to the vegetables, and stir gently to coat.
+13. Add 1 Tbsp of the tahini-honey mixture to the vegetables, and stir gently to coat.
 14. Return the tzimmes to the oven, and roast for 10 to 15 minutes more, or until the vegetables are tender and slightly caramelized in spots.
 15. Transfer the tzimmes to a serving platter.
 16. Drizzle with more of the tahini-honey (warm it slightly for easier drizzling, if desired).

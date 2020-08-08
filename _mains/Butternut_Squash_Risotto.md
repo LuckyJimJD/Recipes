@@ -15,7 +15,7 @@ title: Butternut Squash Risotto
 - 3 cups braising liquid (from ribs) with added salt to taste
 - 1 medium-sized white onion, chopped
 - 2 Tbsp. butter
-- 3⁄4 cup Arborio rice
+- ¾ cup Arborio rice
 - 1 tsp. minced garlic
 - 4 Tbsp. Boursin cheese
 - 1½ Tbsp. chopped fresh sage

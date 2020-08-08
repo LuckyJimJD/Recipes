@@ -29,7 +29,7 @@ output:
 | Baking soda               | 1 tsp    | 6 |
 | Yeast (active dry)        | 2.25 tsp | 7 |
 
-Note: .75oz/21g/6.75 tsps instant yeast = 2 oz/57g/4 tblsp compressed yeast
+Note: .75oz/21g/6.75 tsps instant yeast = 2 oz/57g/4 Tbsp compressed yeast
 
 #### Sugar & Salt 
 
@@ -42,8 +42,8 @@ Note: .75oz/21g/6.75 tsps instant yeast = 2 oz/57g/4 tblsp compressed yeast
 | Sugar–Demerara                      | 1 cup   | 220 |
 | Sugar–Raw                           | 1 cup   | 180 |
 | Sugar–Confectioners' (unsifted)     | 1 cup   | 113 |
-| Salt (Kosher-Coarse)                | 1 tblsp | 8   |
-| Salt (table)                        | 1 tblsp | 18  |
+| Salt (Kosher-Coarse)                | 1 Tbsp | 8   |
+| Salt (table)                        | 1 Tbsp | 18  |
 
 #### Liquids & Fats 
 
@@ -55,7 +55,7 @@ Note: .75oz/21g/6.75 tsps instant yeast = 2 oz/57g/4 tblsp compressed yeast
 | Milk       | 1 cup   | 227 |
 | Buttermilk | 1 cup   | 227 |
 | Butter     | 1 cup   | 226 |
-| Butter     | 1 tblsp | 14  |
+| Butter     | 1 Tbsp | 14  |
 | Olive oil  | 1 cup   | 200  |
 
 
@@ -65,8 +65,8 @@ Note: .75oz/21g/6.75 tsps instant yeast = 2 oz/57g/4 tblsp compressed yeast
 
 | Ingredient | Volume | Grams |
 |----------- |------- | ----- |
-| Caraway seeds     | 1 tblsp | 9   |
-| Poppy seeds       | 1 tblsp | 9   |
+| Caraway seeds     | 1 Tbsp | 9   |
+| Poppy seeds       | 1 Tbsp | 9   |
 | Raisins           | 1 cup   | 149 |
 | Walnuts (whole)   | 1 cup   | 128 |
 | Walnuts (chopped) | 1 cup   | 113 |

@@ -9,7 +9,7 @@ title: Cherry Jam
 - Cherries (about 1lb for 1 jar) pitted & chopped
 - Sugar (¾ cup for 1 cup cooked cherries)
 - Lemon zest
-- Lemon juice (1 tablespoon for 1 cup cooked cherries)
+- Lemon juice (1 Tbsp for 1 cup cooked cherries)
 - Almond extract (¼ tsp. for 1 cup cooked cherries)
 
 # Directions

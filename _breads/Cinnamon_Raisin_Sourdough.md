@@ -7,24 +7,24 @@ source: 'www.kingarthurflour.com/recipes/cinnamon-raisin-sourdough-bread-recipe'
 
 # Ingredients
 
-## Dough
+## For the Dough
 
-- ½ cup (113g) sourdough starter, ripe or discard
-- 3 cups (361g) all-purpose flour
-- 2½ teaspoons instant yeast
-- 1 tablespoon sugar
-- 1 ¼ teaspoons salt
+- 113g (½ cup) sourdough starter, ripe or discard
+- 361g (3 cups) all-purpose flour
+- 2½ tsps instant yeast
+- 1 Tbsp sugar
+- 1¼ tsps salt
 - 1 large egg
-- 5 tablespoons (71g) soft butter
-- ⅔ cup (152g) lukewarm water
+- 72g (5 Tbsps) soft butter
+- 152g (⅔ cup) lukewarm water
 
-## Filling
+## For the Filling
 
-- ¼ cup (50g) sugar
-- 1½ teaspoons ground cinnamon
-- 2 teaspoons all-purpose flour
-- 1 large egg, beaten with 1 tablespoon water
-- ½ cup (74g) raisins
+- 50g (¼ cup) sugar
+- 1½ tsps ground cinnamon
+- 2 tsps all-purpose flour
+- 1 large egg, beaten with 1 Tbsp water
+- 74g (½ cup) raisins
 
 # Directions
 

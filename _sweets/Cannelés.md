@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Cannelés
-source: 'https://www.france.fr/en/bordeaux/list/canneles-me-lou-recipe'
+source: 'www.france.fr/en/bordeaux/list/canneles-me-lou-recipe'
 
 ---
 

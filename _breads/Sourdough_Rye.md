@@ -13,15 +13,15 @@ source: 'www.kingarthurflour.com/recipes/jeffreys-sourdough-rye-bread-recipe'
 - 128g rye flour
 - 150g bread or all-purpose flour
 - 170g room-temperature water
-- 1 teaspoon active dry yeast
-- 1½ teaspoons salt
+- 1 tsp active dry yeast
+- 1½ tsps salt
 
 
 # Directions
 
 ## Sour 
 
-1. Mix sourdough starter, 152 grams rye flour, and 114 grams water. 
+1. Mix sourdough starter, 152g rye flour, and 114g water. 
 2. Cover and let sit for 14 to 16 hours at room temperature.
 
 ## Dough 

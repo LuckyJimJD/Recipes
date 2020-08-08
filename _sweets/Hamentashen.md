@@ -1,6 +1,5 @@
 ---
 layout: recipe
-slug: /hamentashen/
 title: Hamentashen
 
 ---
@@ -23,15 +22,15 @@ title: Hamentashen
 3. Add the egg, vanilla, and orange zest to the bowl. Beat again till creamy and well mixed.
 4. Sift flour and salt into the bowl.
 5. Mix with the electric mixer on low speed till a crumbly dough forms.
-6. Begin to knead dough with hands till a smooth dough ball forms. Try not to overwork the dough, only knead till the dough is the right consistency. If the crumbles are too dry to form a smooth dough, add water slowly, 1 teaspoon at a time, using your hands to knead the liquid into the dough. Knead and add liquid until the dough is smooth and slightly tacky to the touch (not sticky), with a consistency that is right for rolling out. If the dough seems too wet, knead in a little flour till it reaches the right texture.
+6. Begin to knead dough with hands till a smooth dough ball forms. Try not to overwork the dough, only knead till the dough is the right consistency. If the crumbles are too dry to form a smooth dough, add water slowly, 1 tsp at a time, using your hands to knead the liquid into the dough. Knead and add liquid until the dough is smooth and slightly tacky to the touch (not sticky), with a consistency that is right for rolling out. If the dough seems too wet, knead in a little flour till it reaches the right texture.
 7. Form the dough into a flat disk and wrap in plastic wrap. Place in the refrigerator to chill for 3 hours to overnight.
 8. Preheat oven to 350° F. 
 9. Lightly flour a smooth, clean surface. Unwrap the dough disk and place it on the floured surface. The dough will be very firm after chilling.
 10. Use a rolling pin to roll the dough out to ¼ inch thick. At the beginning, it will be tough to roll out-- you may need to pound it a bit. A heavy rolling pin works best. As you roll, cracks may form on the edges of the dough. Repair any large cracks with your fingers and continue rolling.
-11. When the dough reaches ¼ inch thickness, scrape the dough up with a pastry scraper, lightly reflour the surface, and flip the dough over. Continue rolling the dough out to between ¼ & 1/8 inch thick. 
+11. When the dough reaches ¼ inch thickness, scrape the dough up with a pastry scraper, lightly reflour the surface, and flip the dough over. Continue rolling the dough out to between ¼ & ⅛ inch thick. 
 12. Use a 3-inch cookie cutter to cut circles out of the dough.
 13. Gather the scraps and roll them out again. Cut circles. 
-14. Place a teaspoon of filling in the center of each circle. 
+14. Place a tsp of filling in the center of each circle. 
 15. Fold & pinch to form triangles 
 16. Place on baking sheet (greased or lined with parchment or baking mat) and bake at 350° F for 10-25 minutes, until lightly golden. 
 17. Cool on a wire rack. Store in a tightly sealed plastic bag or Tupperware.

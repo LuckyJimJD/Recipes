@@ -16,7 +16,7 @@ title: Halušky
 
 - 2 cups flour
 - 3 eggs
-- 3 oz. milk
+- 3 oz milk
 - salt and pepper.
 
 # Directions

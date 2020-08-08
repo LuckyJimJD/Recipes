@@ -11,25 +11,25 @@ title: Shepherd's Pie
 - 1½ pounds russet potatoes
 - ¼ cup half-and-half
 - 2 ounces unsalted butter
-- ¾ teaspoon kosher salt
-- ¼ teaspoon freshly ground black pepper
+- ¾ tsp kosher salt
+- ¼ tsp freshly ground black pepper
 - 1 egg yolk
 
 ## For the Filling
 
-- 2 tablespoons canola oil
+- 2 Tbsps canola oil
 - 1 cup chopped onion
 - 2 carrots, peeled and diced small
 - 2 cloves garlic, minced
 - 1½ pounds ground lamb
-- 1 teaspoon kosher salt
-- ½ teaspoon freshly ground black pepper
-- 2 tablespoons all-purpose flour
-- 2 teaspoons tomato paste
+- 1 tsp kosher salt
+- ½ tsp freshly ground black pepper
+- 2 Tbsps all-purpose flour
+- 2 tsps tomato paste
 - 1 cup chicken broth
-- 1 teaspoon Worcestershire sauce
-- 2 teaspoons freshly chopped rosemary leaves
-- 1 teaspoon freshly chopped thyme leaves
+- 1 tsp Worcestershire sauce
+- 2 tsps freshly chopped rosemary leaves
+- 1 tsp freshly chopped thyme leaves
 - ½ cup fresh or frozen corn kernels
 - ½ cup fresh or frozen English peas
 

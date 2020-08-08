@@ -7,7 +7,7 @@ title: Pesto
 # Ingredients
 
 - 2 cups basil leaves
-- 2 tablespoons pine nuts or walnuts
+- 2 Tbsps pine nuts or walnuts
 - 2 large cloves garlic
 - ½ cup olive oil
 - ½ cut grated Parmesan

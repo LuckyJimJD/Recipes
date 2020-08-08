@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Lemon Arugula Spaghetti Cacio E Pepe
-source: 'https://itunes.apple.com/us/book/cravings/id1061451877?mt=11'
+source: 'itunes.apple.com/us/book/cravings/id1061451877?mt=11'
 
 ---
 
@@ -11,9 +11,9 @@ source: 'https://itunes.apple.com/us/book/cravings/id1061451877?mt=11'
 - 12 ounces dried spaghetti
 - ¼ pound pancetta or bacon, finely diced (about ¾ cup)
 - ¼ cup extra-virgin olive oil
-- 3 tablespoons minced garlic (about 4 big cloves)
-- 1 teaspoon red pepper flakes, plus more to taste
-- 2 teaspoons freshly ground black pepper, plus more to taste
+- 3 Tbsps minced garlic (about 4 big cloves)
+- 1 tsp red pepper flakes, plus more to taste
+- 2 tsps freshly ground black pepper, plus more to taste
 - ¼ cup fresh lemon juice
 - 1½ cups freshly grated Parmigiano-Reggiano cheese, plus more for serving
 - 3 cups baby arugula

@@ -7,18 +7,18 @@ source: 'www.kingarthurbaking.com/recipes/sourdough-baguettes-recipe'
 
 # Sourdough Baguettes
 
-- 283g (1 ¼ cups) lukewarm water
+- 284g (1¼ cups) lukewarm water
 - 482g (2 cups) sourdough starter (ripe or discard)
-- 539g to 602g (4½ to 5 cups ) all-purpose flour 
-- 2½ teaspoons salt
-- 2 teaspoons sugar
-- 1 to 2 teaspoons instant yeast (optional)
-- 4 teaspoons vital wheat gluten
+- 540g to 602g (4½ to 5 cups ) all-purpose flour 
+- 2½ tsps salt
+- 2 tsps sugar
+- 1 to 2 tsps instant yeast (optional)
+- 4 tsps vital wheat gluten
 
 # Directions
 
-1. In a large bowl, combine the water, starter, and 3 cups (360g) of the flour, mixing until smooth.
-2. Stir in the salt, sugar, yeast, and gluten, then an additional 1½ to 2 cups (180g to 240g) of flour. Stir until the dough pulls away from the sides of the bowl, adding only enough additional flour as necessary; a slack (sticky) dough makes a light loaf.
+1. In a large bowl, combine the water, starter, and 360g (3 cups) of the flour, mixing until smooth.
+2. Stir in the salt, sugar, yeast, and gluten, then an additional 180g to 240g (1½ to 2 cups) of flour. Stir until the dough pulls away from the sides of the bowl, adding only enough additional flour as necessary; a slack (sticky) dough makes a light loaf.
 3. Knead the dough for about 7 minutes in a stand mixer; or 8 to 10 minutes by hand, on a lightly greased work surface. You may also knead this dough using the dough cycle on your bread machine; once it's finished kneading, transfer it to a bowl to rise, as directed below.
 4. Turn the dough into an oiled bowl, cover the bowl, and let the dough rise until doubled in bulk, about 90 minutes (longer if omitting dried yeast).
 5. Gently deflate the dough, and divide it into six pieces (for thin baguettes) or three pieces (for thicker Italian loaves).

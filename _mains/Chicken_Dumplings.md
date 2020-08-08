@@ -7,25 +7,25 @@ source: 'www.kingarthurflour.com/recipes/chicken-and-dumplings-recipe'
 
 # Ingredients
 
-## Dumplings
+## For the Dumplings
 
 - 2 ¼ cups (255g) all-purpose flour
 - 3½ tsp baking power
 - ½ tsp salt
-- ¼ cup (4 tablespoons, 57g) butter
-- 2 tablespoons (4g) chopped fresh chives or parsley or 2 teaspoons dried; or 2 teaspoons herbes de Provence, all optional
-- ¾ cup (170g) buttermilk, or½ cup (113g) plain yogurt thinned with ¼ cup (57g) milk
+- ¼ cup (4 Tbsps, 57g) butter
+- 2 Tbsps (4g) chopped fresh chives or parsley or 2 tsps dried; or 2 tsps herbes de Provence, all optional
+- ¾ cup (170g) buttermilk, or ½ cup (113g) plain yogurt thinned with ¼ cup (57g) milk
 - 1 large egg
 
-## Filling
+## For the Filling
 
-- ¼ cup (4 tablespoons, 57g) butter
+- ¼ cup (4 Tbsps, 57g) butter
 - ½ cup (57g) all-purpose flour
 - 3 cups (680g) chicken broth
-- 1 teaspoon dried thyme
+- 1 tsp dried thyme
 - 1 bay leaf
 - salt and pepper to taste
-- ¼ teaspoon Worcestershire sauce
+- ¼ tsp Worcestershire sauce
 - 4 cups (454g to 510g) diced cooked chicken
 - 2½ cups (312g) frozen mixed vegetables, thawed and/or cooked; or a mixture of cooked peas and carrots
 

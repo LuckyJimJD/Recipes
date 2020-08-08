@@ -1,6 +1,5 @@
 ---
 layout: recipe
-slug: /baguettes/
 title: 'Baguettes'
 source: 'www.kingarthurflour.com/recipes/classic-baguettes-recipe'
 
@@ -15,17 +14,17 @@ output:
 
 ## For the Poolish
 
-- ½ cup (113g) cool water
-- 1/16 teaspoon active dry yeast or instant yeast
-- 1 cup (120g) all-purpose flour
+- 114g (½ cup) cool water
+- ⅙ tsp active dry yeast or instant yeast
+- 120g (1 cup) all-purpose flour
 
 ## For the Dough
 
 - Ripened starter
-- 1½ teaspoons active dry yeast or instant yeast
-- 1 cup + 2 tablespoons (255g) lukewarm water
-- 3½ cups (418g) all-purpose flour
-- 2 teaspoons salt
+- 1½ tsps active dry yeast or instant yeast
+- 256g (1 cup + 2 Tbsps) lukewarm water
+- 418g (3½ cups) all-purpose flour
+- 2 tsps salt
 
 # Directions
 

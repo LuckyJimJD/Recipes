@@ -8,18 +8,18 @@ source: 'reformjudaism.org/reform-jewish-life/food-recipes/spring-barley-risotto
 # ingredients 
 
 - 2¾ cups vegetable broth or water and 1 vegetable bouillon cube
-- ⅛ teaspoon saffron threads, slightly crumbled
+- ⅛ tsp saffron threads, slightly crumbled
 - 10 medium asparagus stalks, tough ends removed
-- 2 Tablespoons extra virgin olive oil
-- 1 medium onion, diced into 1⁄4 inch dice
+- 2 Tbsps extra virgin olive oil
+- 1 medium onion, diced into ¼ inch dice
 - 2 cloves of garlic, finely minced
 - 1 cup pearled barley
 - ½ cup white wine, Sauvignon Blanc or Viognier
-- ½ teaspoon kosher salt, or to taste
+- ½ tsp kosher salt, or to taste
 - 15 grindings of black pepper, or to taste
-- Finely grated zest from 1⁄2 lemon (about 1 teaspoon)
+- Finely grated zest from 1⁄2 lemon (about 1 tsp)
 - ½–¾ cup grated fresh Parrano or Parmesan cheese
-- ¼ cup toasted, slivered almonds (1 Tablespoon removed for garnish)
+- ¼ cup toasted, slivered almonds (1 Tbsp removed for garnish)
 
 # Directions
 
@@ -34,4 +34,4 @@ source: 'reformjudaism.org/reform-jewish-life/food-recipes/spring-barley-risotto
 9. Add all of the simmering broth, stir, then cover and reduce the heat to low. Stirring the mixture every 5 minutes or so to prevent sticking and burning, cook for 30–35 minutes, until the barley is tender. If all of the liquid has been absorbed and the barley appears too hard and/or dry, add another 1⁄4 cup of water and cook for 5 more minutes.
 10. Remove the pot from the heat. Stir in the salt, pepper, and lemon zest until well combined.
 11. Gently stir the grated cheese into the mixture. When it is evenly distributed and melted, add the almonds and the reserved asparagus pieces minus 5 asparagus tips.
-12. Immediately serve the barley risotto in a dish garnished with the reserved Tablespoon of almonds and the 5 asparagus tips.
+12. Immediately serve the barley risotto in a dish garnished with the reserved Tbsp of almonds and the 5 asparagus tips.

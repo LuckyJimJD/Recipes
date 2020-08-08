@@ -7,11 +7,11 @@ source: 'www.kingarthurflour.com/recipes/naturally-leavened-sourdough-bread-reci
 
 # Ingredients
 
-- 454 grams (2 cups) ripe (fed) sourdough starter
-- 602 grams (5 cups) all-purpose flour
-- 86 grams (¾ cup) whole wheat flour 
-- 398 grams (1 ¾ cups) room-temperature water
-- 2½ teaspoons salt
+- 454g (2 cups) ripe (fed) sourdough starter
+- 602g (5 cups) all-purpose flour
+- 86g (¾ cup) whole wheat flour 
+- 398g (1 ¾ cups) room-temperature water
+- 2½ tsps salt
 
 # Directions 
 

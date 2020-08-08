@@ -8,18 +8,18 @@ title: 'Kaiser Rolls'
 
 ## For the Dough
 
-- 3 cups (361g) King Arthur Unbleached All-Purpose Flour
-- 1½ teaspoons instant yeast
-- 1½ teaspoons sugar
-- 1 ¼ teaspoons salt
+- 361g (3 cups) King Arthur Unbleached All-Purpose Flour
+- 1½ tsps instant yeast
+- 1½ tsps sugar
+- 1 ¼ tsps salt
 - 1 large egg
-- 2 tablespoons (28g) unsalted butter, softened
-- ¾ cup (170g) lukewarm water
+- 28g (2 Tbsps) unsalted butter, softened
+- 170g (¾ cup) lukewarm water
 
 ## For the Topping
 
-- 1 tablespoon (14g) milk
-- 2 tablespoons (18g) poppy or sesame seeds
+- 14g (1 Tbsp) milk
+- 18g (2 Tbsps) poppy or sesame seeds
 
 # Directions 
 

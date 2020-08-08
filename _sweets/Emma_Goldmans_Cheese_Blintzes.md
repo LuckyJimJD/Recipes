@@ -20,13 +20,13 @@ source: 'libcom.org/library/emma-goldmans-cheese-blintz-recipe'
 - 2 pounds or 4 cups of cheese, preferably pot cheese but Farmer’s cheese or dry cottage cheese may be more easily available
 - 3 cups water
 - Butter
-- 1 tablespoon sugar
+- 1 Tbsp sugar
 
 # Directions
 
 ## The Blattlach (Crepes)
 
-They are the principal thing; they must be as fine as tissue paper. You beat up two eggs and add three cups of water, then add flour, sifted, to make the mixture as thin as you would for fannekuchen (pancakes), very, very thin. For best results, strain the batter through a sieve to remove lumps, then refrigerate, covered, for two hours. Then make your frying pan hot, wipe it thoroughly with butter, and pour in enough of the mixture to cover the pan thinly. Use about two tablespoons of batter, tilting the pan to coat the surface thinly and evenly. Then when it gets yellow, turn it over on a cloth. Make all your blätter (crepes) like this.
+They are the principal thing; they must be as fine as tissue paper. You beat up two eggs and add three cups of water, then add flour, sifted, to make the mixture as thin as you would for fannekuchen (pancakes), very, very thin. For best results, strain the batter through a sieve to remove lumps, then refrigerate, covered, for two hours. Then make your frying pan hot, wipe it thoroughly with butter, and pour in enough of the mixture to cover the pan thinly. Use about two Tbsps of batter, tilting the pan to coat the surface thinly and evenly. Then when it gets yellow, turn it over on a cloth. Make all your blätter (crepes) like this.
 
 ## The Filling
 

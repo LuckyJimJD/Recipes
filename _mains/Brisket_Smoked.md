@@ -7,11 +7,11 @@ title: Smoked Brisket
 # Ingredients
 
 - 5 lb Brisket
-- 1 tablespoon coarse salt (kosher or sea)
-- 1 tablespoon paprika or chili powder
-- 2 teaspoons sugar
-- 1 teaspoon freshly ground black pepper
-- 1 teaspoon ground cumin
+- 1 Tbsp coarse salt (kosher or sea)
+- 1 Tbsp paprika or chili powder
+- 2 tsps sugar
+- 1 tsp freshly ground black pepper
+- 1 tsp ground cumin
 
 # Directions
 

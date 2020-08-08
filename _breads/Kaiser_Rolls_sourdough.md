@@ -6,14 +6,14 @@ title: 'Sourdough Kaiser Rolls'
 
 # Ingredients 
 
-- 210 grams water 
-- 280 grams active sourdough starter 
+- 210g water 
+- 280g active sourdough starter 
 - 2 large eggs 
-- 2 tablespoons light olive oil 
-- 670 grams bread flour 
-- 28 grams malt extract 
+- 2 Tbsps light olive oil 
+- 670g bread flour 
+- 28g malt extract 
 - 2 tsp salt 
-- 2 tablespoons sugar 
+- 2 Tbsps sugar 
 
 # Directions 
 

@@ -1,8 +1,7 @@
 ---
 layout: recipe
-slug: /mak_pirog/
 title: Mak Pirog (Poppy Seed Strudel)
-source: 'https://www.saveur.com/article/Recipes/Poppyseed-Strudel/'
+source: 'www.saveur.com/article/Recipes/Poppyseed-Strudel/'
 
 ---
 
@@ -11,16 +10,16 @@ source: 'https://www.saveur.com/article/Recipes/Poppyseed-Strudel/'
 ## For the Dough 
 
 - 6 tbsp. milk, heated to 115°, plus ⅓ cup
-- 1 (¼-oz.) package active dry yeast
+- 2¼-oz. (1 package) active dry yeast
 - ¼ cup canola oil, plus more for greasing
 - 1 egg, plus 1 egg yolk
 - 2 cups flour
 
 ## For the Filling 
 
-- 3⁄4 cup ground poppy seeds
+- ¾ cup ground poppy seeds
 - 3 tbsp. unsalted butter
-- Zest of½ lemon
+- Zest of ½ lemon
 - 1 egg yolk mixed with 1 tbsp. heavy cream, for egg wash
 - Whole poppy seeds, to sprinkle on top
 

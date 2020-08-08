@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Chocolate Chip Mandlebrot
-source: 'https://www.kingarthurflour.com/recipes/chocolate-chip-walnut-mandelbrot-recipe'
+source: 'www.kingarthurflour.com/recipes/chocolate-chip-walnut-mandelbrot-recipe'
 
 ---
 
@@ -10,10 +10,10 @@ source: 'https://www.kingarthurflour.com/recipes/chocolate-chip-walnut-mandelbro
 - 3 large eggs
 - 1 cup (198g) sugar
 - 1 cup (198g) vegetable oil
-- 1 teaspoon vanilla extract
-- 1 teaspoon salt
+- 1 tsp vanilla extract
+- 1 tsp salt
 - 3½ cups (418g) all-purpose flour
-- 1 teaspoon baking powder
+- 1 tsp baking powder
 - 2 cups (340g) chocolate chips
 - 1½ cups (170g) almond, walnut, or pecan pieces
 - coarse white sparkling sugar, optional

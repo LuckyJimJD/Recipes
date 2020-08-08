@@ -10,7 +10,7 @@ source: 'www.thespruceeats.com/smoked-salmon-on-the-grill-2217138'
 - ~2 lbs Salmon filet
 - ½ cup brown sugar
 - ¼ cup coarse sea salt
-- 1 tablespoon freshly ground black pepper
+- 1 Tbsp freshly ground black pepper
 - ½ to 1 cup wood chips (cedar or hickory)
 
 # Directions

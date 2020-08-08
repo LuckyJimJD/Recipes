@@ -8,13 +8,13 @@ source: 'www.kingarthurflour.com/recipes/marilyns-whole-wheat-and-rye-sourdough-
 # Ingredients
 
 - 228g sourdough starter, ripe or discard
-- 1½ teaspoons active dry yeast (optional)
+- 1½ tsps active dry yeast (optional)
 - 198g lukewarm milk
 - 28g packed dark brown sugar
-- 1 teaspoon salt
-- 1½ teaspoons caraway seeds
-- ½ teaspoon whole anise seeds
-- ¼ teaspoon ground cardamom
+- 1 tsp salt
+- 1½ tsps caraway seeds
+- ½ tsp whole anise seeds
+- ¼ tsp ground cardamom
 - 54g rye flour (light or dark)
 - 58g whole wheat flour
 - 206-240g all-purpose flour

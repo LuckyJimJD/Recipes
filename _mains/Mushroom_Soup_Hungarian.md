@@ -2,25 +2,25 @@
 layout: recipe
 title: Hungarian Cream of Mushroom Soup
 
-source: 'https://montanahappy.com/to-die-for-rustic-hungarian-mushroom-soup/'
+source: 'montanahappy.com/to-die-for-rustic-hungarian-mushroom-soup/'
 
 ---
 
 # Ingredients
 
-- 3 tablespoons butter
+- 3 Tbsps butter
 - 2 cups chopped onions
 - 1 pound fresh mushrooms, sliced (any kind - a mix is best)
-- 2 teaspoons dried dill weed
-- 1 tablespoon Hungarian paprika
-- 1 tablespoon soy sauce or liquid aminos
+- 2 tsps dried dill weed
+- 1 Tbsp Hungarian paprika
+- 1 Tbsp soy sauce or liquid aminos
 - 2 cups chicken or vegetable broth
 - 1 cup milk or plain almond milk
-- 3 tablespoons all-purpose flour
+- 3 Tbsps all-purpose flour
 - ground black pepper to taste
-- 2 teaspoons lemon juice
+- 2 tsps lemon juice
 - ½ cup sour cream or Greek yogurt
-- 2 tablespoons chopped fresh parsley
+- 2 Tbsps chopped fresh parsley
 
 # Directions
 

@@ -9,16 +9,16 @@ source: 'www.kingarthurflour.com/recipes/pain-au-levain-recipe'
 
 ## Levain
 
-- 150 grams (1 ¼ cups) All-Purpose Flour
-- 74 grams (⅓ cup) room-temperature (70°F) water
-- 28 grams (1/8 cup) ripe (fed) sourdough starter
+- 150g (1¼ cups) All-Purpose Flour
+- 74g (⅓ cup) room-temperature (70°F) water
+- 28g (⅛ cup) ripe (fed) sourdough starter
 
 ## Dough
 
-- 482 grams (2 cups + 2 tablespoons) water, 75°F to 80°F
-- 632 grams (5 ¼ cups) all-purpose flour
-- ½ cup (50g) dark rye or pumpernickel flour
-- 1 tablespoon salt
+- 482g (2 cups + 2 Tbsps) water, 75°F to 80°F
+- 632g (5¼ cups) all-purpose flour
+- 50g (½ cup) dark rye or pumpernickel flour
+- 1 Tbsp salt
 
 # Directions
 

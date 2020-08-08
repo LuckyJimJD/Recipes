@@ -1,35 +1,35 @@
 ---
 layout: recipe
 title: Brownie Babka
-source: 'https://www.buttermilkbysam.com/blog/2019/6/19/brownie-babka'
+source: 'www.buttermilkbysam.com/blog/2019/6/19/brownie-babka'
 
 ---
 
 # Ingredients
 
-## FOr the Dough
+## For the Dough
 
 - ½ cup warm water
-- 1 heaped teaspoon instant yeast
-- 1 teaspoon sugar
+- 1 heaped tsp instant yeast
+- 1 tsp sugar
 - 1 egg, at room temperature
 - ⅛ cup honey
 - ¼ cup canola oil
-- 1 teaspoon sea salt
-- ½ teaspoon vanilla paste or 1 teaspoon pure vanilla extract
+- 1 tsp sea salt
+- ½ tsp vanilla paste or 1 tsp pure vanilla extract
 - 240g (2 cups) bread flour
 
-## FOr the Filling
+## For the Filling
 
-- 3 oz unsalted butter (about 6 TB)
-- 1½ oz dark chocolate, chopped (about ¼ cup)
-- 4 oz sugar (½ cup plus 1 TB)
-- ½ oz brown sugar (1 TB)
-- ½ teaspoon salt
+- 3 oz (6 Tbsp) unsalted butter
+- 1½ oz (about ¼ cup) dark chocolate, chopped 
+- 4 oz (½ cup plus 1 Tbsp) sugar 
+- ½ oz (1 Tbsp) brown sugar 
+- ½ tsp salt
 - 2 eggs (divided into 1 egg plus 1 yolk, and in a separate bowl save the white for the bread’s eggwash)
 - ¼ cup all purpose flour
-- 1 oz dutch process cocoa (¼ cup plus 1 TB)
-- 1 teaspoon vanilla
+- 1 oz dutch process cocoa (¼ cup plus 1 Tbsp)
+- 1 tsp vanilla
 
 # Directions
 

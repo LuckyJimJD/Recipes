@@ -18,8 +18,8 @@ title: Mole Verde
 - ¼ cup green pumpkin seeds, roasted
 - ⅓ cup sesame seeds, roasted
 - 2 large garlic cloves
-- ½ teaspoon cumin seed
-- 1-2 tablespoons olive oil
+- ½ tsp cumin seed
+- 1-2 Tbsps olive oil
 - 3 cups chicken stock
 - 1 cup water
 

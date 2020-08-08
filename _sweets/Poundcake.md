@@ -1,8 +1,7 @@
 ---
 layout: recipe
-slug: /poundcake/
 title: One-Bowl Poundcake
-source: 'https://www.nytimes.com/2020/04/03/dining/pantry-poundcake-coronavirus.html'
+source: 'www.nytimes.com/2020/04/03/dining/pantry-poundcake-coronavirus.html'
 
 --- 
 

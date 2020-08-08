@@ -1,8 +1,7 @@
 ---
 layout: recipe
-slug: /peach_cobbler/
 title: Peach Cobbler
-source: 'https://www.bonappetit.com/recipe/brown-butter-peach-cobbler'
+source: 'www.bonappetit.com/recipe/brown-butter-peach-cobbler'
 
 ---
 

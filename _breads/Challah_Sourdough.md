@@ -9,19 +9,19 @@ source: 'www.thefreshloaf.com/node/4200/sourdough-challah-photos-recipe'
 
 ## For the Levain
 
-- 35 grams (2 tablespoons) sourdough starter
-- 80 grams (⅓ cup) warm water
-- 135 grams (1 cup) bread flour
+- 35g (2 Tbsps) sourdough starter
+- 80g (⅓ cup) warm water
+- 135g (1 cup) bread flour
 
 ## For the Dough
 
 - Ripened levain 
-- 60 grams (¼ cup) warm water
+- 60g (¼ cup) warm water
 - 3 large eggs, plus 1 for glazing
 - 1½ tsp salt
-- 55 grams (¼ cup) vegetable oil
-- 55 grams (3 tablespoons) honey or 60 grams (⅓ cup) sugar
-- 400 grams (3 cups) bread flour
+- 55g (¼ cup) vegetable oil
+- 55g (3 Tbsps) honey or 60g (⅓ cup) sugar
+- 400g (3 cups) bread flour
 - Poppy and/or seseme seeds 
 
 # Directions
@@ -36,7 +36,7 @@ source: 'www.thefreshloaf.com/node/4200/sourdough-challah-photos-recipe'
 ## Baking day
 
 1. In a large bowl, beat together the water, the 3 eggs, salt, oil, and honey or sugar until the salt has dissolved and the mixture is fairly well combined. 
-2. Mix in the bread flour all at once. When the mixture is a shaggy ball, add the starter, and knead until the dough is smooth, no more than 10 minutes. This dough is very firm and should feel almost like modeling clay. If the dough is too firm to knead easily, add a tablespoon or two of water to it; if it seems too wet, add a few tablespoons flour.
+2. Mix in the bread flour all at once. When the mixture is a shaggy ball, add the starter, and knead until the dough is smooth, no more than 10 minutes. This dough is very firm and should feel almost like modeling clay. If the dough is too firm to knead easily, add a Tbsp or two of water to it; if it seems too wet, add a few Tbsps flour.
 3. The dough should feel smooth and very firm but be easy to knead.
 4. Place the dough in the warm cleaned bowl and cover it with plastic wrap. Let the dough ferment for about 2 hours. It will probably not rise much, if at all.
 5. Divide the dough into two portions and braid. 

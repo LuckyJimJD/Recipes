@@ -10,12 +10,12 @@ source: 'www.myjewishlearning.com/the-nosher/passover-recipes-short-ribs-with-or
 
 - 2 pounds flanken or short ribs
 - ½ cup freshly squeezed orange juice
-- 1 Tablespoon pomegranate juice
-- 2 Tablespoons brandy
-- 1 Tablespoon honey
-- 2 Tablespoons olive oil
-- 1 teaspoon ground coriander
-- ½ teaspoon salt
+- 1 Tbsp pomegranate juice
+- 2 Tbsps brandy
+- 1 Tbsp honey
+- 2 Tbsps olive oil
+- 1 tsp ground coriander
+- ½ tsp salt
 - Pinch of freshly ground black pepper
 - 2 carrots, grated
 

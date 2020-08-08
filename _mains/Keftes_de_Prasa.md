@@ -8,12 +8,12 @@ title: Keftes de Prasa
 
 - ¼ cup olive oil
 - 6 large leeks
-- ¾ teaspoon salt
+- ¾ tsp salt
 - 3 large eggs, beaten
 - ½ cup breadcrumbs or matzo meal
-- ½ teaspoon allspice or nutmeg
-- 1 teaspoon cinnamon
-- ¼ teaspoon cayenne pepper or chili flakes
+- ½ tsp allspice or nutmeg
+- 1 tsp cinnamon
+- ¼ tsp cayenne pepper or chili flakes
 - vegetable oil for frying
 
 # Directions 

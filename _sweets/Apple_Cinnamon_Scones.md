@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Apple Cinnamon Scones
-source: 'https://www.kingarthurflour.com/recipes/fresh-apple-cinnamon-scones-recipe'
+source: 'www.kingarthurflour.com/recipes/fresh-apple-cinnamon-scones-recipe'
 
 ---
 
@@ -11,20 +11,20 @@ source: 'https://www.kingarthurflour.com/recipes/fresh-apple-cinnamon-scones-rec
 
 - 2 ¾ cups (326g) All-Purpose Flour
 - ⅓ cup (67g) granulated sugar
-- ¾ teaspoon salt
-- 1 tablespoon baking powder
-- 1 teaspoon cinnamon
-- 8 tablespoons (113g) butter, cold
-- ¾ cup (78g) chopped fresh apple, in½" pieces (about half a medium apple); leave the skin on, if you like
+- ¾ tsp salt
+- 1 Tbsp baking powder
+- 1 tsp cinnamon
+- 8 Tbsps (113g) butter, cold
+- ¾ cup (78g) chopped fresh apple, in ½" pieces (about half a medium apple); leave the skin on, if you like
 - ¾ cup (113g) cinnamon, caramel, or butterscotch chips
 - 2 large eggs
-- 1 teaspoon vanilla extract
+- 1 tsp vanilla extract
 - ½ cup (128g) unsweetened applesauce
 
 ## For the Topping
 
-- 3 tablespoons coarse white sparkling sugar
-- ½ teaspoon cinnamon
+- 3 Tbsps coarse white sparkling sugar
+- ½ tsp cinnamon
 
 # Directions
 

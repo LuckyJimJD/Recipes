@@ -9,20 +9,20 @@ source: 'recepty.cuketka.cz/celozrnny-zitny-chleb/'
 
 ## For the Rye Leaven
 
-- 170 g wholemeal rye flour (finely ground)
-- 170 g water
-- 30 g rye starter
+- 170g wholemeal rye flour (finely ground)
+- 170g water
+- 30g rye starter
 
 ## For the Dough
 
-- 360 g wholemeal rye flour (finely ground)
-- 340 g rye leaven (save remainder as starter)
-- 320 g water
-- 50 g whole cereal grains (wheat, spelt)
-- 50 g flakes (oat, rye)
-- 50 g sunflower seeds
-- 30 g dark rye malt
-- 15 g of salt
+- 360g wholemeal rye flour (finely ground)
+- 340g rye leaven (save remainder as starter)
+- 320g water
+- 50g whole cereal grains (wheat, spelt)
+- 50g flakes (oat, rye)
+- 50g sunflower seeds
+- 30g dark rye malt
+- 15g of salt
 - butter to smear the mold
 
 # Directions
@@ -31,7 +31,7 @@ source: 'recepty.cuketka.cz/celozrnny-zitny-chleb/'
 
 2. In a saucepan, cover cereal grains with water over them and cook for about 10 to 15 minutes. Drain in a colander.
 
-3. To 340 grams of the rye leaven, add water, flour, cooled cooked cereal grain, oat or rye flakes, seeds, malt and salt. Mix the dough to combine the ingredients. Do not mix for an unnecessarily long time - it is enough if everything is nicely mixed.
+3. To 340g of the rye leaven, add water, flour, cooled cooked cereal grain, oat or rye flakes, seeds, malt and salt. Mix the dough to combine the ingredients. Do not mix for an unnecessarily long time - it is enough if everything is nicely mixed.
 
 4. Wipe the bread pan with butter. Then gradually transfer all the dough from the bowl into it. Straighten the dough with a damp palm or spatula and compact it nicely. The dough should reach about 2 cm below the edge. Sprinkle with seeds, flakes or coarse semolina. Cover and leave to rise for 2 to 3 hours.
 

@@ -1,6 +1,5 @@
 ---
 layout: recipe
-slug: /dutch_baby/
 title: Vanilla and Lemon Dutch Baby
 source: 'www.thespruceeats.com/vanilla-and-lemon-dutch-baby-4115655'
 
@@ -12,15 +11,15 @@ source: 'www.thespruceeats.com/vanilla-and-lemon-dutch-baby-4115655'
 
 - ½ cup whole milk
 - ½ cup all purpose flour
-- 1 teaspoon vanilla extract
+- 1 tsp vanilla extract
 - ¼ cup sugar (vanilla sugar if available)
-- 2 tablespoons butter
-- 1 teaspoon lemon zest
+- 2 Tbsps butter
+- 1 tsp lemon zest
 
 ## For the Glaze
 
-- 1 teaspoon lemon juice
-- 1 teaspoon milk
+- 1 tsp lemon juice
+- 1 tsp milk
 - 1 cup powdered sugar
 
 # Directions 

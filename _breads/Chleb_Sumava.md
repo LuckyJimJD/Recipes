@@ -7,18 +7,18 @@ source: 'recepty.cuketka.cz/chleb-sumava/'
 
 # Ingredients 
 
-## Fr the Rye Leavan (žitný rozkvas)
+## For the Rye Leavan (žitný rozkvas)
 
-- 150 g rye flour (žitné chlebové mouky)
-- 150 g water (vody)
-- 20 g rye sourdough starter (žitného kvasu)
+- 150g rye flour (žitné chlebové mouky)
+- 150g water (vody)
+- 20g rye sourdough starter (žitného kvasu)
 
 ## For the Dough (těsto)
 
-- 300 grams rye levain (žitného kvasu)
-- 300-350 grams bread flour (pšeničné chlebové mouky)
-- 170 grams water (vody)
-- 12 grams (2 tsp) salt (soli)
+- 300g rye levain (žitného kvasu)
+- 300-350g bread flour (pšeničné chlebové mouky)
+- 170g water (vody)
+- 12g (2 tsp) salt (soli)
 - 1½ tsp caraway seeds (kmínu)
 
 # Directions

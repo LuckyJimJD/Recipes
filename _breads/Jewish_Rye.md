@@ -1,38 +1,33 @@
 ---
 layout: recipe
 title: 'Jewish Rye Bread'
-source: 'https://www.kingarthurflour.com/recipes/jewish-rye-bread-recipe'
-
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: recipe.tex
+source: 'www.kingarthurflour.com/recipes/jewish-rye-bread-recipe'
     
 ---
 
 # Ingredients
 
-## For the Rye sour
+## For the Rye Sour
 
-- 1 rounded tablespoon (14g) ripe (fed) sourdough starter
-- 2 ¼ cups (237g) organic pumpernickel flour
-- 7/8 cup (198g) room-temperature water (70°F)
+- 14g (1 rounded Tbsp) ripe (fed) sourdough starter
+- 238g (2¼ cups) organic pumpernickel flour
+- 198g (⅞ cup) room-temperature water (70°F)
 
 ## For the Altus
 
-- 1 heaping cup (74g) bread
-- ⅓ cup (74g) cool water
+- 74g (1 heaping cup) bread
+- 74g (⅓ cup) cool water
 
 ## For the Dough
 
-- 3½ cups (418g) King Arthur Unbleached All-Purpose Flour
+- 418g (3½ cups) King Arthur Unbleached All-Purpose Flour
 - 2 ¼ cups rye sour
-- 1 cup + 1 tablespoon (241g) water (80°F)
-- ⅓ cup (85g) old bread soaker, from above, at room temperature
-- 1 tablespoon caraway seeds, optional
-- ½ teaspoon ground caraway seeds, optional
-- 2 teaspoons salt
-- 1 teaspoon instant yeast
+- 242g (1 cup + 1 Tbsp) water (80°F)
+- 85g (⅓ cup) _altus_ at room temperature
+- 1 Tbsp caraway seeds
+- ½ tsp ground caraway seeds
+- 2 tsps salt
+- 1 tsp instant yeast
 
 # Directions
 

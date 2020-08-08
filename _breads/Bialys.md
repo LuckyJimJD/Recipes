@@ -1,6 +1,5 @@
 ---
 layout: recipe
-slug: /bialys/
 title: 'Bialys'
 source: 'www.kingarthurflour.com/recipes/classic-bialys-recipe'
 
@@ -15,19 +14,19 @@ output:
 
 ## Dough
 
-- 7 cups (843g) bread or all-purpose flour
-- 2 ¾ teaspoons salt
-- 1 ¼ teaspoons instant yeast
-- ½ teaspoon onion powder
-- 2 ¼ cups (510g) water
+- 844g (7 cups) bread or all-purpose flour
+- 2¾ tsps salt
+- 1¼ tsps instant yeast
+- ½ tsp onion powder
+- 510g (2¼ cups) water
 
 ## Filling
 
 - 1 medium onion, peeled and quartered
-- 1 teaspoon poppy seeds
-- 1/8 teaspoon salt
+- 1 tsp poppy seeds
+- ⅛ tsp salt
 - 3 to 4 grinds fresh black pepper
-- 1 tablespoon (14g) olive oil
+- 14g (1 Tbsp) olive oil
 - Cornmeal for pan
 
 # Directions
@@ -51,6 +50,6 @@ output:
 
 ## Shape & Bake 
 
-- Lightly sprinkle 2 baking sheets with farina or cornmeal. Take each dough ball and stretch it into a bagel shape about 6" to 7" in diameter, without puncturing the center, and leaving a wide, flat indentation where the hole would be. Place a few inches apart on the prepared baking sheets, 6 per pan. Place a scant teaspoon of the onion filling in the indentation and spread it out with your fingers. _Don't overfill_.
+- Lightly sprinkle 2 baking sheets with farina or cornmeal. Take each dough ball and stretch it into a bagel shape about 6" to 7" in diameter, without puncturing the center, and leaving a wide, flat indentation where the hole would be. Place a few inches apart on the prepared baking sheets, 6 per pan. Place a scant tsp of the onion filling in the indentation and spread it out with your fingers. _Don't overfill_.
 - Bake for 8 to 10 minutes, until light golden brown. 
 - Remove the bialys from the oven and serve warm; or cool on a rack and save for toasting later.
