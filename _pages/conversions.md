@@ -3,16 +3,11 @@ layout: recipe
 permalink: /conversions/
 title: Weight & Measure Conversions
 
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: default.tex
-    
 ---
 
 #### Flour, Grains, Leavening 
 
-\rowcolors{3}{}{lightgrey}
+
 
 | Ingredient | Volume | Grams |
 |----------- |------- | ----- |
@@ -33,8 +28,6 @@ Note: .75oz/21g/6.75 tsps instant yeast = 2 oz/57g/4 Tbsp compressed yeast
 
 #### Sugar & Salt 
 
-\rowcolors{3}{}{lightgrey}
-
 | Ingredient | Volume | Grams |
 |----------- |------- | ----- |
 | Sugar–White (granulated)            | 1 cup   | 198 |
@@ -47,8 +40,6 @@ Note: .75oz/21g/6.75 tsps instant yeast = 2 oz/57g/4 Tbsp compressed yeast
 
 #### Liquids & Fats 
 
-\rowcolors{3}{}{lightgrey}
-
 | Ingredient | Volume | Grams |
 |----------- |------- | ----- |
 | Water      | 1 cup   | 227 |
@@ -60,8 +51,6 @@ Note: .75oz/21g/6.75 tsps instant yeast = 2 oz/57g/4 Tbsp compressed yeast
 
 
 #### Seeds, Nuts, Fruits 
-
-\rowcolors{3}{}{lightgrey}
 
 | Ingredient | Volume | Grams |
 |----------- |------- | ----- |
