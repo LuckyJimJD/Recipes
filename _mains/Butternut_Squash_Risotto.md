@@ -25,3 +25,4 @@ title: Butternut Squash Risotto
 1. Preheat oven 450° F.  Cut squash lengthwise and scoop out seeds. Season with salt, pepper and cumin, and toss with olive oil. Cover with foil and place on a shallow baking pan on the center rack of the oven. Bake about 50 minutes or until fork-tender. While still warm, place squash pieces in a blender and purée until smooth; add water if needed for processing.
 1. Start risotto by bringing seasoned water to a simmer in a large skillet and hold. In a medium-sized heavy-duty pot, cook onion in 1 Tbsp. butter until translucent. Add the rice and garlic, and stir for 3 minutes. Add one-third of the hot liquid and begin stirring. Repeat until the rice has absorbed all liquid and has creamy consistency; add the purée, cheese, butter and sage and season with salt and pepper.
 
+Serve with [Braised Short Ribs]({{ site.baseurl }}/mains/Short_Ribs_Braised)
