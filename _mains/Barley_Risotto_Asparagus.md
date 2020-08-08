@@ -5,7 +5,7 @@ source: 'reformjudaism.org/reform-jewish-life/food-recipes/spring-barley-risotto
 
 ---
 
-# ingredients 
+# Ingredients 
 
 - 2¾ cups vegetable broth or water and 1 vegetable bouillon cube
 - ⅛ tsp saffron threads, slightly crumbled
