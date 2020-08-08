@@ -1,7 +1,7 @@
 ---
 layout: recipe
 slug: /apple_honey_cake/
-title: Sunken Apple & Honey Cake
+title: Apple & Honey Cake
 source: 'smittenkitchen.com/2014/09/sunken-apple-and-honey-cake'
 
 ---
