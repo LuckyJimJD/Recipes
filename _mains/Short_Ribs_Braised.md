@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: ﻿Dr. Pepper Braised Short Ribs with Butternut Squash Risotto
+title: Braised Short Ribs
 
 ---
 
@@ -29,4 +29,4 @@ title: ﻿Dr. Pepper Braised Short Ribs with Butternut Squash Risotto
 1. Remove all but 1 Tbsp. of the fat from the pot, reduce the heat to medium and add the vegetables and herbs. Brown the vegetables lightly, 5 to 7 minutes, then stir in the tomato paste and cook for 1 minute.
 1. Add wine, ribs, Dr Pepper and broth to the pot. Bring to a boil, cover tightly and place in the oven to braise for 2½ hours or until the ribs are very tender. Every 30 minutes, skim and discard fat from the surface. When they are finished, remove the ribs and begin to reduce your braising broth to desired consistency.
 
-Serve on top of [Butternut Squash Risotto]()
+Serve on top of [Butternut Squash Risotto]({{ site.baseurl }}/mains/Butternut_Squash_Risotto)
