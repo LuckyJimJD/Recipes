@@ -1,12 +1,12 @@
 ---
-title: Volume to Weight Conversions 
-notitle: true 
-fontsize: 10pt 
+layout: recipe
+permalink: /conversions/
+title: Weight & Measure Conversions
 
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: default.latex
+    template: default.tex
     
 ---
 

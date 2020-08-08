@@ -12,3 +12,5 @@ title: Recipes
 
 # [Sweets]({{ site.baseurl }}/sweets)
 
+# [Weight & Measure Conversions]({{ site.baseurl }}/conversions)
+
