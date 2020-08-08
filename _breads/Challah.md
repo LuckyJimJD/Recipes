@@ -5,8 +5,6 @@ source: 'cooking.nytimes.com/recipes/7199-my-favorite-challah'
     
 ---
 
-# Challah 
-
 # Ingredients
 
 * 2¼ tsp (1 packet) active dry yeast 
