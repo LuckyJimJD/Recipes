@@ -5,9 +5,7 @@ title: Weight & Measure Conversions
 
 ---
 
-### Flour, Grains, Leavening 
-
-
+# Flour, Grains, Leavening 
 
 | Ingredient | Volume | Grams |
 |----------- |------- | ----- |
@@ -26,7 +24,7 @@ title: Weight & Measure Conversions
 
 Note: .75oz/21g/6.75 tsps instant yeast = 2 oz/57g/4 Tbsp compressed yeast
 
-### Sugar & Salt 
+# Sugar & Salt 
 
 | Ingredient | Volume | Grams |
 |----------- |------- | ----- |
@@ -38,7 +36,7 @@ Note: .75oz/21g/6.75 tsps instant yeast = 2 oz/57g/4 Tbsp compressed yeast
 | Salt (Kosher-Coarse)                | 1 Tbsp | 8   |
 | Salt (table)                        | 1 Tbsp | 18  |
 
-### Liquids & Fats 
+# Liquids & Fats 
 
 | Ingredient | Volume | Grams |
 |----------- |------- | ----- |
@@ -50,7 +48,7 @@ Note: .75oz/21g/6.75 tsps instant yeast = 2 oz/57g/4 Tbsp compressed yeast
 | Olive oil  | 1 cup   | 200  |
 
 
-### Seeds, Nuts, Fruits 
+# Seeds, Nuts, Fruits 
 
 | Ingredient | Volume | Grams |
 |----------- |------- | ----- |
