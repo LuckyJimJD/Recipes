@@ -2,6 +2,7 @@
 layout: recipe
 title: 'Challah'
 source: 'cooking.nytimes.com/recipes/7199-my-favorite-challah'
+image: challah.png
     
 ---
 

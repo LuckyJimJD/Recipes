@@ -2,6 +2,7 @@
 layout: recipe
 title: 'Whole Wheat & Rye Sourdough Sandwich Bread'
 source: 'www.kingarthurflour.com/recipes/marilyns-whole-wheat-and-rye-sourdough-bread-recipe'
+image: whole_wheat_rye_sourdough.jpg
     
 ---
 

@@ -2,6 +2,7 @@
 layout: recipe
 title: 'Bialys'
 source: 'www.kingarthurflour.com/recipes/classic-bialys-recipe'
+image: bialys.jpg
 
 output: 
   pdf_document:

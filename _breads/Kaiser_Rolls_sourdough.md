@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: 'Sourdough Kaiser Rolls'
+image: kaiser_rolls.jpg
   
 ---
 

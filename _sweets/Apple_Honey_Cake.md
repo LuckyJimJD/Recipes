@@ -2,6 +2,7 @@
 layout: recipe
 title: Apple & Honey Cake
 source: 'smittenkitchen.com/2014/09/sunken-apple-and-honey-cake'
+image: apple_honey_cake.jpg
 
 ---
 

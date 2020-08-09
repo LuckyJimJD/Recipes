@@ -2,7 +2,7 @@
 layout: recipe
 permalink: /sweets/
 title: Sweets
-image: caneles
+image: canneles.png
 ---
 
 {% for sweet in site.sweets %}

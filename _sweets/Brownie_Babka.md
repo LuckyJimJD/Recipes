@@ -1,7 +1,8 @@
 ---
 layout: recipe
 title: Brownie Babka
-source: 'www.buttermilkbysam.com/blog/2019/6/19/brownie-babka'
+source: 'https://buttermilkbysam.com/brownie-babka/'
+image: brownie_babka.jpg
 
 ---
 

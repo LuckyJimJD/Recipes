@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: 'Rohlíky'
+image: rohliky.jpg
     
 ---
 

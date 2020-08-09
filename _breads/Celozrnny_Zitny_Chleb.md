@@ -2,6 +2,7 @@
 layout: recipe
 title: 'Celozrnný Žitný Chléb (Czech Wholemeal Rye)'
 source: 'recepty.cuketka.cz/celozrnny-zitny-chleb/'
+image: zitny_cleb.jpg
     
 ---
 

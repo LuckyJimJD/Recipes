@@ -2,6 +2,7 @@
 layout: recipe
 title: 'Jewish Rye Bread'
 source: 'www.kingarthurflour.com/recipes/jewish-rye-bread-recipe'
+image: jewish_rye.png
     
 ---
 

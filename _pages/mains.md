@@ -2,7 +2,7 @@
 layout: recipe
 permalink: /mains/
 title: Main Dishes
-image: cassoulet
+image: cassoulet.png
 ---
 
 {% for main in site.mains %}

@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Bread Pudding
-source: 'www.williams-sonoma.com/recipe/bread-pudding.html'
+image: bread_pudding.jpg
 
 ---
 

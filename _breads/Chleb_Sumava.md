@@ -2,6 +2,7 @@
 layout: recipe
 title: 'Chléb Šumava (Czech Light Rye)'
 source: 'recepty.cuketka.cz/chleb-sumava/'
+image: cleb_sumava.jpg
     
 ---
 

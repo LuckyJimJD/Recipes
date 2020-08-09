@@ -2,6 +2,7 @@
 layout: recipe
 title: 'Sourdough Baguettes'
 source: 'www.kingarthurbaking.com/recipes/sourdough-baguettes-recipe'
+image: sourdough_baguettes.jpg
 
 ---
 

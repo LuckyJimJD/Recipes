@@ -2,6 +2,7 @@
 layout: recipe
 title: 'Sourdough Challah'
 source: 'www.thefreshloaf.com/node/4200/sourdough-challah-photos-recipe'
+image: sourdough_challah.jpg
 
 ---
 

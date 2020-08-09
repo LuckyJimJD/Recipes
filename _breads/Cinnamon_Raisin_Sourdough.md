@@ -2,6 +2,7 @@
 layout: recipe
 title: 'Sourdough Cinnamon Raisin Bread'
 source: 'www.kingarthurflour.com/recipes/cinnamon-raisin-sourdough-bread-recipe'
+image: cinnamon_raisin.jpg
     
 ---
 

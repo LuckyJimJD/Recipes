@@ -2,6 +2,7 @@
 layout: recipe
 title: Apple Cinnamon Scones
 source: 'www.kingarthurflour.com/recipes/fresh-apple-cinnamon-scones-recipe'
+image: apple_scones.jpg
 
 ---
 

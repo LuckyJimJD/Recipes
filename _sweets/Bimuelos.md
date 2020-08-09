@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Bimuelos
+image: bimuelos.jpg
     
 ---
 

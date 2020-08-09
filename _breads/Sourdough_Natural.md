@@ -2,6 +2,7 @@
 layout: recipe
 title: 'Naturally Leavened Sourdough'
 source: 'www.kingarthurflour.com/recipes/naturally-leavened-sourdough-bread-recipe'
+image: natural_sourdough.jpg
     
 ---
 

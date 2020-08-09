@@ -2,6 +2,7 @@
 layout: recipe
 title: 'Sourdough Pumpernickel'
 source: 'www.kingarthurflour.com/recipes/sourdough-pumpernickel-bread-recipe'
+image: sourdough_pumpernickel.jpg
     
 ---
 

@@ -2,7 +2,7 @@
 layout: recipe
 permalink: /
 title: Recipes
-image: cooking
+image: cooking.png
 ---
 
 # [Bread]({{ site.baseurl }}/bread)

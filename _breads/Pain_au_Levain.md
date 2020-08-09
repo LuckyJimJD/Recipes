@@ -2,6 +2,7 @@
 layout: recipe
 title: 'Pain au Levain'
 source: 'www.kingarthurflour.com/recipes/pain-au-levain-recipe'
+image: pain_au_levain.jpg
     
 ---
 

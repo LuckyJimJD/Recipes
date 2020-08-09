@@ -2,6 +2,7 @@
 layout: recipe
 title: 'Baguettes'
 source: 'www.kingarthurflour.com/recipes/classic-baguettes-recipe'
+image: baguettes.jpg
 
 output: 
   pdf_document:

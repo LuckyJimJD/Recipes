@@ -2,6 +2,7 @@
 layout: recipe
 title: 'Sourdough Rye'
 source: 'www.kingarthurflour.com/recipes/jeffreys-sourdough-rye-bread-recipe'
+image: sourdough_rye.jpg
     
 ---
 
