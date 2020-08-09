@@ -8,11 +8,11 @@ image: cheese_blintz.jpg
 
 > I wish you were here for I am making Blintzes ... 
 
-- Emma Goldman to Alexander Berkman’s companion, Emmy Eckstein, Aug. 28, 1934.
+Emma Goldman to Alexander Berkman’s companion, Emmy Eckstein, Aug. 28, 1934.
 
 > Having been starved for so many years, he now ate ravenously. It was extraordinary what an amount of food he could absorb, especially of his favourite Jewish dishes, of which he had been deprived so long. It was nothing at all for him to follow up a substantial meal with a dozen blintzes (a kind of Yiddish pancake containing cheese or meat) or a huge apple pie. I cooked and baked, happy in his enjoyment of the food. Most of my friends were in the habit of paying court to my culinary art, but no one ever did so much justice to it as my poor, famished Sasha. 
 
-- Emma Goldman, _Living My Life_
+Emma Goldman, _Living My Life_
 
 # Ingredients
 
