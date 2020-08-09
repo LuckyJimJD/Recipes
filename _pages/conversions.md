@@ -22,7 +22,7 @@ title: Weight & Measure Conversions
 | Baking soda               | 1 tsp    | 6 |
 | Yeast (active dry)        | 2.25 tsp | 7 |
 
-Note: .75oz/21g/6.75 tsps instant yeast = 2 oz/57g/4 Tbsp compressed yeast
+##### Note: .75oz/21g/6.75 tsps instant yeast = 2 oz/57g/4 Tbsp compressed yeast
 
 # Sugar & Salt 
 
