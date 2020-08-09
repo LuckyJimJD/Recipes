@@ -2,6 +2,7 @@
 layout: recipe
 title: Emma Goldman's Cheese Blintz Recipe
 source: 'libcom.org/library/emma-goldmans-cheese-blintz-recipe'
+image: cheese_blintz.jpg
 
 ---
 
