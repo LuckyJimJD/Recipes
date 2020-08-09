@@ -2,6 +2,7 @@
 layout: recipe
 title: Cassoulet
 source: 'www.seriouseats.com/recipes/2014/10/traditional-french-cassoulet-recipe.html'
+image: cassoulet.png
 
 ---
 
