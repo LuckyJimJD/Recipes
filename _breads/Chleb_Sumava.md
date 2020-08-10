@@ -16,7 +16,7 @@ image: chleb_sumava.jpg
 
 ## For the Dough (těsto)
 
-- 300g rye levain (žitného kvasu)
+- 300g levain
 - 300-350g bread flour (pšeničné chlebové mouky)
 - 170g water (vody)
 - 12g (2 tsp) salt (soli)

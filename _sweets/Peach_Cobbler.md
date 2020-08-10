@@ -13,15 +13,15 @@ source: 'www.bonappetit.com/recipe/brown-butter-peach-cobbler'
 - 2 Tbsp. dark brown sugar
 - 1 tsp. ground cinnamon
 - ½ tsp. ground mace
-- ¼ cups granulated sugar, divided
+- ¼ cup granulated sugar, divided
 
 ## For the Dough 
 
-- 1 cup (2 sticks) unsalted butter
-- 2 cups (250 g) all-purpose flour
-- 1 tbsp. baking powder
-- 1 tsp. salt (or½ tsp. kosher salt)
-- 1¾ cups suga
+- 2 sticks (1 cup) unsalted butter
+- 250g (2 cups) all-purpose flour
+- 1 Tbsp. baking powder
+- 1 tsp. salt (or ½ tsp. kosher salt)
+- 350g (1¾ cups) sugar
 - 2 cups whole milk
 - 1 tbsp. vanilla extract
 
