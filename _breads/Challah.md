@@ -24,6 +24,6 @@ image: challah.png
 3. Preheat oven to 375° F.
 4. Braid challah, place on a lined baking sheet, and let rise for another hour. 
 5. Brush challah with egg wash and sprinkle with seeds.
-6. Bake in middle of oven for 35 to 40 minutes, or until golden. Place on rack to cool. 
+6. Bake in middle of oven for 35 to 40 minutes, or until golden. Place on rack to cool.
 
 ![Four-Strand Braid]({{ site.baseurl }}/assets/img/illustrations/4-strand braid.jpeg)
