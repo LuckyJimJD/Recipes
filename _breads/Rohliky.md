@@ -9,10 +9,10 @@ image: rohliky.jpg
 
 ## For the Rolls
 
-- 4 cups unbleached flour
+- 480g (4 cups) unbleached flour
 - 4 Tbsp butter, slightly melted
-- 2 packages dry yeast
-- 1 cup lukewarm milk (or water)
+- 4½ tsp (2 packages) dry yeast
+- 1 cup lukewarm milk or water
 - 1 tsp sugar
 - 2 tsp salt
 - 1 egg, lightly beaten
@@ -28,8 +28,8 @@ image: rohliky.jpg
 # Directions
 
 1. Put yeast in small bowl with 2 tbsp lukewarm milk and 1 tsp sugar. Let sit until yeast is active.
-2. Add 2 tbsp flour and½ cup lukewarm milk to yeast and let rise for 5-10 minutes.
-3. Mix 4 cups flour and salt. Add yeast mixture, remaining milk, butter, & egg.
+2. Add 2 tbsp flour and ½ cup lukewarm milk to yeast and let rise for 5-10 minutes.
+3. Mix remaining flour and salt. Add yeast mixture, remaining milk, butter, & egg.
 4. Knead by hand or in mixer until soft dough is formed.
 5. Cover with warm damp cloth and place in unheated oven to rise for 1 hour.
 6. Divide dough into 3 balls and roll out slightly into circles. Cut each circle into 3 triangular pieces, and roll gently to about ¾ inch thick.
