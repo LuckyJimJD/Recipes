@@ -9,8 +9,9 @@ image: challah.png
 # Ingredients
 
 * 2¼ tsp (1 packet) active dry yeast 
+* 1 tsp sugar
 * 200g lukewarm water 
-* 90g sugar (or 82g honey), plus 1 tsp sugar for yeast
+* ½ cup (82g) honey (or 90g sugar)
 * ¼ cup vegetable oil 
 * 2 large eggs, plus one for egg wash
 * 1½ tsp salt
