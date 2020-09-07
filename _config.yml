@@ -3,7 +3,7 @@ url: https://www.emfink.net
 baseurl: /Recipes
 title: Recipes
 description:  # leave blank for no description 
-last_updated: 12 August 2020
+last_updated: 7 September 2020
 
 name: Recipes
 author: Eric M. Fink 
@@ -18,13 +18,6 @@ collections:
     output: true
   mains: 
     output: true 
-
-footer_text: >
-  Created by <a href="https://github.com/LuckyJimJD" target="_blank">Eric M. Fink</a>. 
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>. 
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 
-  <br> 
-  Original content licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
