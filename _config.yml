@@ -3,7 +3,7 @@ url: https://www.emfink.net
 baseurl: /Recipes
 title: Recipes
 description:  # leave blank for no description 
-last_updated: 7 September 2020
+last_updated: 16 September 2020
 
 name: Recipes
 author: Eric M. Fink 
@@ -25,6 +25,7 @@ collections:
 
 # Build settings
 markdown: kramdown
+  
 remote_theme: luckyjimjd/luckyjimjd.github.io
 
 # Includes & excludes
