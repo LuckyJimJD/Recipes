@@ -8,8 +8,6 @@ image: honey_cake.jpg
 
 # Ingredients
 
-## For the Topping
-
 - 3½ cups (440g) all-purpose flour
 - 1 tsp (5g) baking powder
 - 1 tsp (5g) baking soda
