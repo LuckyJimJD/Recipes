@@ -23,4 +23,4 @@ image: apple-kvass.jpg
 4. Toss apples into a gallon mason jar and pour rye water over them.
 5. Close tightly, and leave at room temperature for 3-4 days. Remove any froth forming on top a couple of times a day.
 6. Remove apples; add a few raisins and honey. Keep at room temperature overnight.
-7. Refridgerate and serve cold.
+7. Refrigerate and serve cold.
