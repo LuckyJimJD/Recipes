@@ -11,4 +11,6 @@ image: cooking.png
 
 # [Sweets]({{ site.baseurl }}/sweets)
 
+# [Drinks]({{ site.baseurl }}/drinks)
+
 # [Weight & Measure Conversions]({{ site.baseurl }}/conversions)
