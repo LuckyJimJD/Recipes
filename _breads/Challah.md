@@ -30,3 +30,9 @@ image: challah.png
 8. Bake in middle of oven for 35 to 40 minutes, or until golden. Place on rack to cool.
 
 ![Four-Strand Braid]({{ site.baseurl }}/assets/img/illustrations/4-strand braid.jpeg)
+
+![Six-Strand Braid]({{ site.baseurl }}/assets/img/illustrations/6-strand_1.jpeg)
+
+![Six-Strand Braid]({{ site.baseurl }}/assets/img/illustrations/6-strand_2.jpeg)
+
+![Six-Strand Braid]({{ site.baseurl }}/assets/img/illustrations/6-strand_3.jpeg)
