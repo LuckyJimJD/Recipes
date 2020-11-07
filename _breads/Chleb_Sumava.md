@@ -10,17 +10,17 @@ image: chleb_sumava.jpg
 
 ## For the Rye Leavan (žitný rozkvas)
 
-- 150g rye flour (žitné chlebové mouky)
-- 150g water (vody)
-- 20g rye sourdough starter (žitného kvasu)
+- 225g rye flour (žitné chlebové mouky)
+- 225g water (vody)
+- 30g rye sourdough starter (žitného kvasu)
 
 ## For the Dough (těsto)
 
-- 300g levain
-- 300-350g bread flour (pšeničné chlebové mouky)
-- 170g water (vody)
-- 12g (2 tsp) salt (soli)
-- 1½ tsp caraway seeds (kmínu)
+- 450g levain (save remainder as starter)
+- 450-500g bread flour (pšeničné chlebové mouky)
+- 250g water (vody)
+- 1 tblsp (18g) salt (soli)
+- 1 tblsp caraway seeds (kmínu)
 
 # Directions
 
