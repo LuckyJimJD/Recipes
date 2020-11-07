@@ -41,5 +41,5 @@ image: chleb_sumava.jpg
 5. About 45 minutes before baking, heat oven to 480° F. Place cloche or baking stone on rack in lower-third of the oven. If not using a cloche, place a baking sheet or cast iron pan on the bottom of the oven. 
 6. Remove the dough from the brotform, slash the top, and place onto the pre-heated cloche in the oven. If not using a cloche, pour 1 cup of hot water on the baking sheet to create steam before putting bread on the baking stone.
 7. Bake for about 15 minutes (covered, if using a cloche). 
-8. Reduce oven temperature to 410° F, and bake for another 20-30 minutes until done. Internal temperature should be about 205° F.
+8. Reduce oven temperature to 410° F, and bake until done (about 30-45 minutes). Internal temperature should be about 205° F.
 9. Remove bread from the oven and let it cool completely on a rack. 
