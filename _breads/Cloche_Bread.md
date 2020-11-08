@@ -8,11 +8,11 @@ image: cloche_bread.jpg
 
 # Ingredients 
 
-284g (1¼ cups) lukewarm water
-2 tsp instant yeast
-1¼ tsp salt
-2 tblsp olive oil
-422g (3 cups) King Arthur Unbleached All-Purpose Flour
+- 284g (1¼ cups) lukewarm water
+- 2 tsp instant yeast
+- 1¼ tsp salt
+- 2 tblsp olive oil
+- 422g (3 cups) all-purpose flour
 
 # Directions
 
