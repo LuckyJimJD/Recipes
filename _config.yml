@@ -14,10 +14,24 @@ email: emfink@gmail.com
 collections: 
   breads: 
     output: true 
+  drinks:
+    output: true
+  eggs:
+    output: true
+  grains:
+    output: true
+  meats:
+    output: true
+  sauces:
+    output: true
+  seafoods:
+    output: true
+  sides:
+    output: true
+  soups:
+    output: true
   sweets:
     output: true
-  mains: 
-    output: true 
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
