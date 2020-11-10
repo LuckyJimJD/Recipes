@@ -19,7 +19,7 @@ image: french_country_bread.jpg
 
 - all of the starter (above)
 - 1 cup (227g) lukewarm water (100°F to 115°F)
-- ¾ tsp active dry or 1/2 teaspoon instant yeast
+- ¾ tsp active dry or 1/2 twp instant yeast
 - 1 tblsp sugar
 - 450g to 480g (3¾ to 4 cups) bread flour
 - 1½ to 2¼ tsp salt, to taste
