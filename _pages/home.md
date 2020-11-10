@@ -7,7 +7,19 @@ image: cooking.png
 
 # [Bread]({{ site.baseurl }}/bread)
 
-# [Main Dishes]({{ site.baseurl }}/mains)
+# [Dumplings, Noodles, & Rice]({{ site.baseurl }}/grains)
+
+# [Eggs]({{ site.baseurl }}/eggs)
+
+# [Fish]({{ site.baseurl }}/fish)
+
+# [Meats]({{ site.baseurl }}/meat)
+
+# [Sauces]({{ site.baseurl }}/sauces)
+
+# [Sides]({{ site.baseurl }}/sides)
+
+# [Soup]({{ site.baseurl }}/soup)
 
 # [Sweets]({{ site.baseurl }}/sweets)
 
