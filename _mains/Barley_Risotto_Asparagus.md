@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Spring Barley Risotto with Asparagus and Lemon
+title: Barley Risotto with Asparagus and Lemon
 source: 'reformjudaism.org/reform-jewish-life/food-recipes/spring-barley-risotto-asparagus-and-lemon'
 
 ---
