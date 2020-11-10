@@ -2,7 +2,7 @@
 layout: recipe
 permalink: /soup/
 title: Soup
-image: soup.png
+image: soup.jpg
 ---
 
 {% for soup in site.soups %}

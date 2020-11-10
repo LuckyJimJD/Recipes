@@ -2,7 +2,7 @@
 layout: recipe
 permalink: /eggs/
 title: Eggs
-image: Shakshuka.jpg
+image: shakshuka.jpg
 ---
 
 {% for egg in site.eggs %}

@@ -2,7 +2,7 @@
 layout: recipe
 permalink: /fish/
 title: Fish 
-image: fish.png
+image: fish.jpg
 ---
 
 {% for seafood in site.seafoods %}

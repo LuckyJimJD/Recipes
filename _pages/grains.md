@@ -2,7 +2,7 @@
 layout: recipe
 permalink: /grains/
 title: Dumplings, Noodles, & Rice
-image: risotto.png
+image: risotto.jpg
 ---
 
 {% for grain in site.grains %}

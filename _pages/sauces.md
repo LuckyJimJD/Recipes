@@ -2,7 +2,7 @@
 layout: recipe
 permalink: /sauces/
 title: Sauces
-image: cassoulet.png
+image: pesto.png
 ---
 
 {% for sauce in site.sauces %}
