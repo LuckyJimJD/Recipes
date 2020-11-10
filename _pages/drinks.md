@@ -1,8 +1,8 @@
 ---
 layout: recipe
-permalink: /mains/
-title: Main Dishes
-image: cassoulet.png
+permalink: /drinks/
+title: Drinks
+image: apple-kvass.jpg
 ---
 
 {% for drink in site.drinks %}
