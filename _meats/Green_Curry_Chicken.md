@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Green Curry Chicken
-source: "https://www.thespruceeats.com/veal-scallopini-with-lemon-2216650"
+source: "https://www.thespruceeats.com/thai-green-curry-recipe-p3-3217442"
 image: green-curry-chicken.jpg
 
 ---
