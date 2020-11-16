@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Veal Scallopini
+title: Green Curry Chicken
 source: "https://www.thespruceeats.com/veal-scallopini-with-lemon-2216650"
 image: green-curry-chicken.jpg
 
