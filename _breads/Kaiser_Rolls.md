@@ -9,7 +9,7 @@ image: kaiser_rolls.jpg
 
 ## For the Dough
 
-- 361g (3 cups) King Arthur Unbleached All-Purpose Flour
+- 361g (3 cups) all-purpose flour
 - 1½ tsps instant yeast
 - 1½ tsps sugar
 - 1 ¼ tsps salt

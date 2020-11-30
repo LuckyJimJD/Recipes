@@ -21,7 +21,7 @@ image: jewish_rye.png
 
 ## For the Dough
 
-- 418g (3½ cups) King Arthur Unbleached All-Purpose Flour
+- 418g (3½ cups) all-purpose flour
 - 2 ¼ cups rye sour
 - 242g (1 cup + 1 Tbsp) water (80°F)
 - 85g (⅓ cup) _altus_ at room temperature
