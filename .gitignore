@@ -4,5 +4,7 @@ _site
 .DS_store
 .ruby-version
 Gemfile.lock
-admin
+.jekyll-cache
+.DS\_Store
+config.codekit
 
