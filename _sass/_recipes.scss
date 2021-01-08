@@ -55,7 +55,9 @@
 
 .recipe h1 {
 	font-family: $sans-font; 
-  font-size: $h2;
+	font-size: $h2;
+	margin-top: 0;
+	margin-bottom: 1rem;
 }
 
 .recipe h2 {
