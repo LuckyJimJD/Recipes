@@ -2,7 +2,7 @@
 layout: recipe
 title: Spicy Red Shakshuka
 source: 'www.washingtonpost.com/news/voraciously/wp/2020/03/11/this-spicy-shakshuka-is-all-about-the-sauce/'
-image: Shakshuka.jpg
+image: shakshuka.jpg
 
 ---
 
