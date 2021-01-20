@@ -2,6 +2,7 @@
 layout: recipe
 title: Roasted Cod and Potatoes with Thyme
 source: 'www.foodandwine.com/recipes/roasted-cod-and-potatoes-thyme'
+image: fish.jpg
 
 ---
 
