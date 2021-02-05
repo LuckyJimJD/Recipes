@@ -2,7 +2,7 @@
 layout: recipe
 title: Rugelach
 source: 'www.tabletmag.com/sections/food/articles/tale-of-two-treats'
-image: brownie_babka.jpg
+image: rugelach.jpg
 
 ---
 
