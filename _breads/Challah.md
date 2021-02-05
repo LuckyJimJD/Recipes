@@ -10,12 +10,12 @@ image: challah.png
 
 * 2¼ tsp (1 packet) active dry yeast 
 * 1 tsp sugar
-* 200g lukewarm water 
+* 175g lukewarm water 
 * ½ cup (82g) honey (or 90g sugar)
 * ¼ cup vegetable oil 
 * 2 large eggs, plus one for egg wash
 * 1½ tsp salt
-* 475-500g all-purpose flour
+* 375-400g all-purpose flour
 * Poppy and/or sesame seeds
 
 # Directions
