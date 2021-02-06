@@ -8,7 +8,7 @@ title: Boiled Cabbage
 
 - 1 medium head cabbage
 - 1/2 teaspoon salt 
-- 3 to 4 tablespoons butter,  melted
+- 3 to 4 tablespoons butter, melted
 - Black pepper to taste
 
 # Directions
