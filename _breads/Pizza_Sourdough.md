@@ -2,7 +2,7 @@
 layout: recipe
 title: 'Sourdough Pizza Crust'
 source: 'www.kingarthurbaking.com/recipes/sourdough-pizza-crust-recipe'
-image: pizza.jpg
+image: pizza_sourdough.jpg
 
 output: 
   pdf_document:
