@@ -16,7 +16,7 @@ output:
 - 2 teaspoons active dry yeast or instant yeast
 - 7/8 to 1 1/8 cups (198g to 255g) lukewarm water 
 - 2 tablespoons (25g) olive oil
-- 3 cups (361g) King Arthur Unbleached All-Purpose Flour
+- 3 cups (361g) all-purpose flour
 - 1 1/4 teaspoons (8g) salt
 
 # Directions
