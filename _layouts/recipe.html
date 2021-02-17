@@ -17,6 +17,9 @@
 				{% if page.image %}
 				<img class="recipe-illustration" src="{{ site.baseurl }}/assets/img/illustrations/{{ page.image }}" alt="">
 				{% endif %}
+				{% if page.yield %}
+				<h3 class="recipe-header">Yield: {{ page.yield }}</h2>
+				{% endif %}
 			</div>
 
 			{{ content }}
