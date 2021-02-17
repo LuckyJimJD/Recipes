@@ -50,18 +50,18 @@ yield: "18"
 
 ## Make the Fillings 
 
-### Tvaroh 
+### Tvarohová  
 
 1. Combine all ingredients in a bowl and mix well. 
 2. Refrigerate until ready to use. 
 
-### Poppy Seed
+### Maková
 
 1. Grind poppy seeds with coffee grinder for about 30 seconds. 
 2. Put ground seeds in a saucepan and add remaining ingredients. Stir over medium heat, bring to a boil, and heat for 2 minutes, continuing to stir. 
 3. Remove from heat and let cool. 
 
-### Crumb Topping 
+### Drobenka
 
 1. Mix flour and sugar. 
 2. Add butter and mix gently with hand until mixture forms crumbs.
@@ -73,6 +73,6 @@ yield: "18"
 3. Place on lined baking sheet (6 pieces per sheet) and let rest for 10 minutes. 
 4. Heat oven to 350° F. 
 5. Dip the bottom of a glass in flour, then press hard onto each ball of dough to flatten, creating raised rim. 
-6. Brush rims with egg, add filling and top with streusel. 
+6. Brush rims with egg, add filling and top with drobenka. 
 7. Bake for about 20 minutes, then place on rack to cool. 
 
