@@ -1,11 +1,13 @@
 ---
 layout: recipe
 title: Hamentashen
+image: hamentashen.jpg
+yield: About 12
 
 ---
 
-# Ingredients
 
+# Ingredients
 
 - 2 1/2 cups flour
 - 1 tsp baking powder
