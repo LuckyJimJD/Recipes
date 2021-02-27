@@ -1,33 +1,33 @@
 ---
 layout: recipe
 title: 'Challah'
-source: 'cooking.nytimes.com/recipes/7199-my-favorite-challah'
 image: challah.png
     
 ---
 
 # Ingredients
 
-* 2¼ tsp (1 packet) active dry yeast 
-* 1 tsp sugar
-* 175g lukewarm water 
-* ½ cup (82g) honey (or 90g sugar)
-* ¼ cup vegetable oil 
+* 1 tblsp instant dry yeast
+* 113g (½ cup) lukewarm water 
+* 70g (⅓ cup) vegetable oil 
+* 85g (¼ cup) honey (or 50g/¼ cup sugar)
 * 2 large eggs, plus one for egg wash
 * 1½ tsp salt
-* 375-400g all-purpose flour
+* 482g (4 cups) all-purpose flour
 * Poppy and/or sesame seeds
 
 # Directions
 
-1. Dissolve yeast and 1 tsp sugar in 200g water. Whisk oil into yeast, beat in 2 eggs, one at a time, then add salt and remaining sugar or honey. 
-2. Gradually add flour. When dough holds together, knead for 3-4 minutes with stand mixer on speed 2. Dough should be about the consistency of soft modeling clay. 
-3. Let dough rise in an oiled covered bowl at room temperature for 1 hour, until almost doubled. 
-4. Punch down dough, cover and let rise again for another half-hour.
-5. Preheat oven to 375° F.
-6. Braid challah, place on a lined baking sheet, and let rise for another hour. 
-7. Brush challah with egg wash and sprinkle with seeds.
-8. Bake in middle of oven for 35 to 40 minutes, or until golden. Place on rack to cool.
+1. Whisk flour and salt together in mixing bowl. 
+2. In another bowl, dissolve yeast in water, add the oil, then whisk in eggs one at a time. 
+3. Pour liquid ingredients into bowl with flour and stir to combine. 
+4. Knead in stand mixer (3-4 minutes on speed 2) or by hand until dough is soft & smooth. 
+5. Place dough in a lightly-oiled bowl, cover with plastic wrap or warm damp cloth, and let rise for 1 hour, until almost doubled in bulk. Gently deflate then return to covered bowl to rise for another 30 minutes. 
+6. Remove dough to lightly-floured surface and divide into pieces (3, 4, or 6 as desired for braiding). Roll pieces into strands, about 12 inches long, and let rest for about 10 minutes. 
+7. Braid the loaf and place on a silicon or parchment lined baking sheet. Cover and let rise until puffy, about 1 hour at room temperature (or a few hours in refrigerator for more developed flavor). 
+8. Toward the end of the rising time, heat oven to 375° F.
+9. Beat egg with a little water and brush on the risen loaf, then sprinkle with seeds. 
+10. Bake for 20-30 minutes, until crust is golden brown. Cover with a loose tent of aluminum foil and continue baking until internal temperature reaches 190° F (about 10-15 minutes). 
 
 ![Four-Strand Braid]({{ site.baseurl }}/assets/img/illustrations/4-strand braid.jpeg)
 
