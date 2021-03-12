@@ -18,10 +18,10 @@ image: challah.png
 
 # Directions
 
-1. Whisk flour and salt together in mixing bowl. 
-2. In another bowl, dissolve yeast in water, add the oil, then whisk in eggs one at a time. 
-3. Pour liquid ingredients into bowl with flour and stir to combine. 
-4. Knead in stand mixer (3-4 minutes on speed 2) or by hand until dough is soft & smooth. 
+1. Whisk together yeast, sugar, & 100g of lukewarm water in a mixing bowl. Let stand for about 10 minutes. 
+2. In another bowl, whisk together flour and salt. 
+3. When yeast mixture begins to bubble, add the oil, whisk in eggs one at a time, then pour into bowl with flour and stir to combine in a shaggy mass. 
+4. Knead dough (3-4 minutes in stand mixer on speed 2 or by hand), adding more water little by little as needed, until dough is soft & smooth. 
 5. Place dough in a lightly-oiled bowl, cover with plastic wrap or warm damp cloth, and let rise for 1 hour, until almost doubled in bulk. Gently deflate then return to covered bowl to rise for another 30 minutes. 
 6. Remove dough to lightly-floured surface and divide into pieces (3, 4, or 6 as desired for braiding). Roll pieces into strands, about 12 inches long, and let rest for about 10 minutes. 
 7. Braid the loaf and place on a silicon or parchment lined baking sheet. Cover and let rise until puffy, about 1 hour at room temperature (or a few hours in refrigerator for more developed flavor). 
